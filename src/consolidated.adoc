@@ -65,3 +65,5 @@ endif::backend-docbook5[]
 include::business.adoc[]
 
 include::charter.adoc[]
+
+include::stakeholder.adoc[]
