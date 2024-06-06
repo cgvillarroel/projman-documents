@@ -6,9 +6,9 @@ _G.DumpContents = function()
 		vim.cmd("norm kdd")
 	end
 
-vim.fn.delete("output/compiled.adoc")
-vim.cmd("e output/compiled.adoc")
-vim.cmd("read src/consolidated.adoc")
+vim.fn.delete("output/wiki.adoc")
+vim.cmd("e output/wiki.adoc")
+vim.cmd("read src/wiki.adoc")
 vim.cmd("norm kdd")
 vim.cmd("%g/^include::/lua DumpContents()")
 vim.cmd("w")

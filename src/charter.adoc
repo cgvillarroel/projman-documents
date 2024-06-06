@@ -44,6 +44,7 @@ Additional requirements may be added as necessary, with project sponsor approval
 
 ==== Constraints
 The following constraints pertain to the PubRAMS project:
+
 * This project must be developed within 14 weeks.
 * Tools to be used for this project must have the ability to be integrated to current APC systems.
 * Additional resources to be used in this project should be communicated to the school’s IT Resource Office
@@ -59,7 +60,6 @@ The following are a list of assumptions.  Upon agreement and signature of this d
 ==== Preliminary Scope Statement
 
 The PubRAMS project will develop the project following the software development life cycle (SDLC). This will include the following: analysis and planning, designing, implementing, testing, and deploying. All types of resources to be used for this project will be managed by the project manager. The system will focus solely on the School of Computing and Information Technology’s use only. General features of the system are identified to support the completion of the project. Additional features, such as nice-to-have features, are identified for future iteration of the project.
-
 
 === Risks
 

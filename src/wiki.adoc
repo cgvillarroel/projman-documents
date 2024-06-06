@@ -1,0 +1,64 @@
+= G07 SemiByte PubRAMS
+:toc:
+:toclevels: 1
+
+== Project Title
+
+*PubRAMS: A project document publishing system for Asia Pacific College*
+
+== Project Members
+
+=== Project Professor
+
+[%header,cols=3*]
+|===
+|Name
+|Position
+|Email
+
+|Jose Eugenio Quesada
+|PROJMAN Professor
+|jlquesada@apc.edu.ph
+|===
+
+=== Project Adviser
+
+[%header,cols=3*]
+|===
+|Name
+|Position
+|Email
+
+|Jose Flavio Castillo
+|PROJMAN Adviser
+|jojoc@apc.edu.ph
+|===
+
+=== Project Team
+
+[%header,cols=2*]
+|===
+|Name
+|Email
+
+|Chase Villarroel
+|cgvillarroel@student.apc.edu.ph
+
+|Aliyah Kirstie Lopez
+|aclopez@student.apc.edu.ph
+
+|James Alfafara
+|jsalfafara@student.apc.edu.ph
+
+|Jethro Rae Garcia
+|jbgarcia@student.apc.edu.ph
+
+|Alexandra Noynay
+|asnoynay@student.apc.edu.ph
+|===
+
+== Company Profile
+
+include::business.adoc[]
+
+include::charter.adoc[]

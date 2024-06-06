@@ -13,7 +13,7 @@ write-host "`nConsolidated documents."
 
 # CONVERT TO LATEX
 write-host -nonewline "Converting to DocBook... `t`t"
-asciidoctor -b docbook5 output/compiled.adoc -o build/consolidated.xml
+asciidoctor -b docbook5 src/consolidated.adoc -o build/consolidated.xml
 if (-not $?) { exit 1 }
 write-host "Done"
 
@@ -32,6 +32,11 @@ cd build
 try
 {
 	write-host -nonewline "Building LaTeX (1st pass)... `t`t"
+	xelatex consolidated.tex > $null
+	if (-not $?) { exit 1 }
+	write-host "Done"
+
+	write-host -nonewline "Building LaTeX (final pass)... `t`t"
 	xelatex consolidated.tex > $null
 	if (-not $?) { exit 1 }
 	write-host "Done"
