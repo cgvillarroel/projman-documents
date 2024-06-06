@@ -8,4 +8,6 @@
 !/.gitignore
 !/build.ps1
 !/compile.lua
+!/install.ps1
 !/opts.yaml
+!/README.adoc

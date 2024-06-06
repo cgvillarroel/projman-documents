@@ -1,0 +1,59 @@
+= Consolidated PROJMAN Documents
+
+Repo for maintaining the Wiki and consolidated PDF.
+
+== Dependencies/Setup
+
+An install script is provided for convenience, but you first must allow scripts:
+
+[source,powershell]
+----
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+./install
+----
+
+[NOTE]
+====
+The script will pause in middle after setting up MSYS2. *Enter `+exit+` to continue*
+====
+
+This will install the following:
+
+* Scoop
+** neovim
+** pandoc
+** pdftk
+** miktex
+** msys2
+** ruby
+* Ruby
+** asciidoctor
+
+== Building
+
+A build script is provided for convenience:
+
+[source,powershell]
+----
+./build
+----
+
+[NOTE]
+====
+Before trying to do your first build, you should first update MiKTeX by doing the following:
+
+* Open the MiKTeX Console (start menu search)
+* Click `+Check for updates+`
+* Go to the `+Updates+` tab and click `+Update now+`
+
+Building for the first time will prompt you to install LaTeX packages.
+
+* *Install all of them* (you can uncheck the `+Always show this dialog+` option)
+* This will take a few minutes, since you have to download and install all the needed packages. *Do not interrupt this*
+====
+
+The build pipeline goes like this:
+
+----
+asciidoc -> [asciidoctor] -> docbook -> [pandoc] -> latex -> [xelatex] -> pdf
+----
