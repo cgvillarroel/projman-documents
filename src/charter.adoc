@@ -8,7 +8,7 @@ The process for publishing student project documents into the library of Asia Pa
 
 ==== Business Need/Case
 
-Students’ projects in APC go through a long process of submission through the school’s Microsoft platforms. Interactions through these different platforms create a fragmented process of submission, thus making the process tedious for everyone involved. As such, this project was created to develop a dedicated system that will handle student projects. It intends to simplify the process among involved personnels by integrating all project submission processes in one system. Other personnels such as the School of Computing and Information Techology’s (SoCIT) PBL Coordinator will be able to generate reports of all the submitted projects to evaluate what type of projects the students are inclined to do. The system can aid in promoting a diverse set of project topics to students in the future.
+Students' projects in APC go through a long process of submission through the school's Microsoft platforms. Interactions through these different platforms create a fragmented process of submission, thus making the process tedious for everyone involved. As such, this project was created to develop a dedicated system that will handle student projects. It intends to simplify the process among involved personnels by integrating all project submission processes in one system. Other personnels such as the School of Computing and Information Techology's (SoCIT) PBL Coordinator will be able to generate reports of all the submitted projects to evaluate what type of projects the students are inclined to do. The system can aid in promoting a diverse set of project topics to students in the future.
 
 ==== Business Objectives
 
@@ -47,7 +47,7 @@ The following constraints pertain to the PubRAMS project:
 
 * This project must be developed within 14 weeks.
 * Tools to be used for this project must have the ability to be integrated to current APC systems.
-* Additional resources to be used in this project should be communicated to the school’s IT Resource Office
+* Additional resources to be used in this project should be communicated to the school's IT Resource Office
 
 ==== Assumptions
 
@@ -59,7 +59,7 @@ The following are a list of assumptions.  Upon agreement and signature of this d
 
 ==== Preliminary Scope Statement
 
-The PubRAMS project will develop the project following the software development life cycle (SDLC). This will include the following: analysis and planning, designing, implementing, testing, and deploying. All types of resources to be used for this project will be managed by the project manager. The system will focus solely on the School of Computing and Information Technology’s use only. General features of the system are identified to support the completion of the project. Additional features, such as nice-to-have features, are identified for future iteration of the project.
+The PubRAMS project will develop the project following the software development life cycle (SDLC). This will include the following: analysis and planning, designing, implementing, testing, and deploying. All types of resources to be used for this project will be managed by the project manager. The system will focus solely on the School of Computing and Information Technology's use only. General features of the system are identified to support the completion of the project. Additional features, such as nice-to-have features, are identified for future iteration of the project.
 
 === Risks
 
@@ -133,8 +133,8 @@ The following table contains a summary budget based on the planned cost componen
 
 === Project Approval Requirements
 
-The PubRAMS project will be considered successful once the project team develops at least 90% of the working system that is tested and deemed acceptable by the client’s standards. Additionally, success can be gauged by evaluating if the project’s objectives were met. Success will be determined by a key stakeholder, who will authorize the completion of the project.
+The PubRAMS project will be considered successful once the project team develops at least 90% of the working system that is tested and deemed acceptable by the client's standards. Additionally, success can be gauged by evaluating if the project's objectives were met. Success will be determined by a key stakeholder, who will authorize the completion of the project.
 
 === Project Manager
 
-Chase Villarroel has been voted as the team’s Project Manager for the duration of the PubRAMS projects. Mr. Villarroel is responsible for managing project tasks, scheduling meetings with the stakeholders, and setting deliverables. He also coordinates with the school’s IT Resource Office to communicate all the project resource requirements. His team consists of four of his peers at the college. The team’s project adviser, who also happens to be the director of the school’s IT Resources, is authorized to approve all budget expenditures up to, and including, the allocated budget amounts. Lastly, Mr. Villarroel is required to provide weekly updates to the Project Sponsor.
+Chase Villarroel has been voted as the team's Project Manager for the duration of the PubRAMS projects. Mr. Villarroel is responsible for managing project tasks, scheduling meetings with the stakeholders, and setting deliverables. He also coordinates with the school's IT Resource Office to communicate all the project resource requirements. His team consists of four of his peers at the college. The team's project adviser, who also happens to be the director of the school's IT Resources, is authorized to approve all budget expenditures up to, and including, the allocated budget amounts. Lastly, Mr. Villarroel is required to provide weekly updates to the Project Sponsor.

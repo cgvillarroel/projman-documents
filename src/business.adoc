@@ -90,7 +90,7 @@ The project aims to deliver a platform that improves efficiency of the completio
 * Library cataloging
 * Project information analytics
 
-It also aims to enhance the school staff’s accessibility to gather data for more insights.
+It also aims to enhance the school staff's accessibility to gather data for more insights.
 
 ==== Project Performance
 
@@ -146,7 +146,7 @@ Project Start
 
 === Strategic Alignment
 
-The goals of PubRAMS are in line with Asia Pacific College’s (APC) objectives. Given APC’s emphasis on teaching students practical skills through real-world projects in project-based learning (PBL) courses, there’s a critical need for a dedicated system to manage these projects. Currently, the process relies on manual interactions from users within the workflow. 
+The goals of PubRAMS are in line with Asia Pacific College's (APC) objectives. Given APC's emphasis on teaching students practical skills through real-world projects in project-based learning (PBL) courses, there's a critical need for a dedicated system to manage these projects. Currently, the process relies on manual interactions from users within the workflow. 
 
 With that in mind, PubRAMS seeks to simplify and automate this process through being a dedicated publishing system tailored for PBL projects submitted by APC students.
 
