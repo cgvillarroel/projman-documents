@@ -51,4 +51,6 @@ write-host -nonewline "Adding cover page... `t`t`t"
 pdftk templates/cover.pdf build/consolidated.pdf cat output output/consolidated.pdf
 write-host "Done"
 
-write-host "`nDone building. See ./output/consolidated.pdf"
+write-host "`nDone building. See ./output/consolidated.pdf."
+get-content output/wiki.adoc | set-clipboard
+write-host "Wiki copied to clipboard."
