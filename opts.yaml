@@ -1,0 +1,47 @@
+data-dir: .
+pdf-engine: xelatex
+from: docbook
+input-file: build/consolidated.xml
+output-file: build/consolidated.tex
+standalone: true
+variables:
+  documentclass: article
+  geometry: margin=1in,paperwidth=8.5in,paperheight=13in
+  fontsize: 12pt
+  numbersections: true
+  title: false
+  header-includes: |
+    \renewcommand{\contentsname}{Table of Contents}
+    \usepackage{fontspec}
+    \setmainfont{Calibri}
+    \setlength\parskip{1em}
+    \usepackage{caption}
+    \captionsetup[figure]{labelformat=empty}
+    \usepackage{titlesec}
+    \titleformat{\section}{\LARGE}{\thesection\hspace{1em}}{0em}{}[]
+    \titleformat{\subsection}{\Large}{\thesubsection\hspace{1em}}{0em}{}[]
+    \titleformat{\subsubsection}{\large}{\thesubsubsection\hspace{1em}}{0em}{}[]
+    \titlespacing*{\chapter}{0em}{1em}{1em}
+    \titlespacing*{\section}{0em}{1em}{1em}
+    \titlespacing*{\subsection}{0em}{1em}{1em}
+    \usepackage{fancyhdr}
+    \fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyhead[R]{PubRAMS}
+    \fancyfoot[R]{\thepage}
+    \renewcommand{\headrulewidth}{0em}
+    }
+  include-before: |
+    \pagestyle{plain}
+    \clearpage
+    \pagenumbering{roman}
+    \setcounter{page}{2}
+    \setcounter{tocdepth}{3}
+    \tableofcontents
+    \let\oldnumberline\numberline
+    \renewcommand{\numberline}[1]{\hspace*{-1.5em}}
+    % \listoffigures
+    % \listoftables
+    \let\numberline\oldnumberline
+    \clearpage
+    \pagenumbering{arabic}

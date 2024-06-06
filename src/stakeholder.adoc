@@ -1,0 +1,36 @@
+== Stakeholder Management Strategy
+
+
+1.	INTRODUCTION
+
+The purpose of the Stakeholder Management Strategy is to facilitate smooth and productive interactions with stakeholders throughout the project development process. Our approach is designed to ensure the success of our projects by understanding the needs of all stakeholders involved. This approach involves identifying, prioritizing, and analyzing the diverse needs and interests of our stakeholders.
+
+2.	IDENTIFY STAKEHOLDERS
+
+To properly develop a stakeholder management strategy, it is important to first identify the stakeholders involved. The stakeholders of the project will be the prospective users who will derive value from the system. To do this, the various roles associated with the current processes will be analyzed. Potential new roles in the system will also be assessed. During this, each role's interest, priority, contribution, and resistance will be identified. These points will be used to guide the project, as well as identify key stakeholders that should have greater influence over the development of the project.
+
+3.	KEY STAKEHOLDERS 
+
+The project's success rests on the shoulders of its key stakeholders. These individuals are deeply impacted by, invested in, and hold the most influence over the project's outcome. By fostering strong engagement with these stakeholders, companies can make strategic decisions with confidence, minimize risks, and drive business growth. Identifying key stakeholders early is essential, as it allows us to tailor communication strategies and actively seek their input on desired involvement throughout the project lifecycle. This tailored approach ensures stakeholders receive communication and management aligned with their desired involvement.
+
+	The following roles represent key stakeholders in our project:
+
+•	PBL coordinator
+•	Executive Director
+•	Program Director
+•	Librarian
+
+4.	STAKEHOLDER ANALYSIS
+
+The stakeholders of PubRAMS were identified by thoroughly examining the project submission management and proofreading system along with engaging with the staff directly involved in its operation. This analysis aims to assess the influence or power each stakeholder holds over the project. 
+
+							
+Name	Department / Company	Position	Advisers	Objectives, Requirements, Interests	Influence	Project Contribution	Resistance
+Jayvee Cabardo	Faculty	PBL coordinator	President	data/insight gathering, progress tracking, centralized comms	High	provides support and information	concerned about process changes
+Rhea-Luz Valbuena	SoCIT	Executive Director (SoCIT)	President	increase in productivity, progress tracking	High	provides information	concerned about process changes
+Leonardino Lapira	English Office	Faculty Head	President	increase in productivity, progress tracking	Medium	provides information	concerned about process changes
+APC Library	Library	APC Department	President	increase in productivity, easier publishing	High	provides information	concerned about process changes
+Roselle Wednesday Gardon	SoCIT	Program Director (CS)	President	data/insight gathering	High	provides information	concerned about process changes
+APC System Admin	ITRO	APC Department	ITRO Head		Medium	provides support, provisions IT resources	concerned about process changes
+APC PBL Instructors	Faculty	Faculty	President	increase in productivity, progress tracking	Medium	provides support and information	concerned about process changes
+APC PBL Students	Student	APC Student	Instructors, Department Heads	increase in productivity, progress tracking	Medium	provides information	concerned about process changes

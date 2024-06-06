@@ -1,0 +1,219 @@
+== Business Case
+
+=== Executive Summary
+
+==== Issue
+
+Asia Pacific College students complete several major projects over the course of their education. Once completed, the documents of these projects are published in the school's library. To do this, they must first undergo a series of processes to ensure their quality. Data about project topics are also collected and analyzed for insights. These processes are done manually, consuming time and resources and leaving room for potential mistakes. These are also carried out across multiple communication channels, namely Teams and Outlook, cluttering said channels and making it difficult to find communications related to publishing.
+
+==== Anticipated Outcomes
+
+The project should deliver a dedicated platform for facilitating all processes related to project document publishing. It will take advantage of services already being employed, such as authentication (via Microsoft Entra ID) and file hosting (via Microsoft SharePoint), to allow for smoother user experience.
+
+If implemented, this project will improve the user experience of all those involved with the various processes of publishing project documents. These improvements include simpler and clearer processes, and consolidated notifications regarding publishing-related concerns. This should help declutter other communication channels, minimize the potential for errors, and allow users to focus on other work.
+
+==== Recommendation
+
+To address these issues, it is recommended to consolidate publishing-related processes into a single platform and automate where possible. A single platform will eliminate the need for extraneous communications in other channels, and automation will decrease the amount of work required to complete the processes and minimize the potential for error.
+
+==== Justification
+
+Implementing this project will improve the project publishing experience for all users, as well as provide tools for significantly reducing the amount of effort required to do certain tasks. Other solutions exist, however effort is required to modify them to fit the specific use cases of the client. For a more detailed comparison with alternative solutions, see Cost Benefit Analysis and Alternatives Analysis.
+
+=== Business Case Analysis Team
+
+[%header,cols=3*]
+|===
+|Name
+|Role
+|Description
+
+|Jose Flavio Castillo
+|Project Adviser
+|Provides support and feedback.
+
+|Manuel Sebastian Sanchez
+|Project Sponsor
+|Provides support and feedback.
+
+|Chase Villarroel
+|Team Leader
+|Coordinates team members, supports and develops the project.
+
+|Aliyah Kirstie Lopez
+|Team Member
+|Supports and develops project.
+
+|James Alfafara
+|Team Member
+|Supports and develops project.
+
+|Jethro Rae Garcia
+|Team Member
+|Supports and develops project.
+
+|Alexandra Noynay
+|Team Member
+|Supports and develops project.
+|===
+
+=== Problem Definition
+
+==== Problem Statement
+
+Asia Pacific College is a school that prides itself on its project-based learning (PBL) programs. These programs require students to engage with clients to execute projects in a realistic context. Along with the project output, students are also required to create documents that detail the project plans, development, and output. These documents are then published in the school's library after a series of processes that ensure the quality of the output. These processes span across multiple staff and offices, from instructors and executive directors to the English office and library. Each of those involved plays different important roles in ensuring the quality of outputs, cataloging of documents, and gathering of insights regarding the outputs of students. The most tedious of these involve having to manually encode multiple fields, either to submit forms or to gather data.
+
+These processes are all facilitated in Teams and Outlook. Both of these are good platforms for consolidating communications. However, this is also a source of issues. They are used for a variety of other purposes as well, such as facilitating classes, projects, and general communications. As such, users often find themselves swarmed with notifications. As the publishing process involves communicating with many people across different offices, further distributing communications across different platforms can make finding relevant communications difficult.
+
+==== Organizational Impact
+
+If implemented, the introduction of a new platform for these concerns will simplify the processes involved and declutter other communications channels. Users will be able to find all information needed related to these processes consolidated on a single platform. Some users will also gain access to tools that will automate a significant portion of their involvement in the process. However, this may introduce the need for a new role to manage some aspects of the platform that cannot be automated (e.g., user role management).
+
+==== Technology Migration
+
+To support this new platform, some technologies and services must be provisioned. This includes servers to host the platform and services for file management. There is no need for the migration of existing data, as this new platform will be interfacing with the currently used services (i.e., Koha) through the use of APIs. 
+
+=== Project Overview
+
+==== Project Description
+
+The project involves the implementation of a new platform that will consolidate and simplify the processes involved in project document publishing. Each user will have all relevant projects compiled into a single view, and actionable items will be highlighted. The progress of every project will also be tracked and displayed, and once action is taken, the users of the following steps will be notified. Tools will also be provided to aid in the most tedious tasks, such as encoding data into Koha and gathering data.
+
+==== Goals and Objectives
+
+The project aims to deliver a platform that improves efficiency of the completion and archiving of student projects by simplifying all involved interactions within the platform. The interactions included in the simplification are:
+
+* Student submission
+* Course instruction approval
+* Executive director approval
+* English department proofreading
+* Library cataloging
+* Project information analytics
+
+It also aims to enhance the school staff’s accessibility to gather data for more insights.
+
+==== Project Performance
+
+The main goal of the project is to improve the processes involved in publishing project documents. As such, indicators of improved processes could serve as measures for the project's performance. Namely:
+
+User satisfaction.:: This could be measured through surveys, either manually conducted or integrated into the platform. 
+Time saved.:: This could be measured through measuring the difference between a control group undergoing the current processes and a trial group taking advantage of the new platform.
+
+==== Project Assumptions
+
+Listed are the preliminary assumptions for the proposed project:
+
+* The system will only be accessible by Asia Pacific College (APC) students and staff.
+* APC has the necessary resources to support the development, deployment, and maintenance of the system.
+* Where possible, the project will be able to take advantage of systems already currently being used by APC (namely Microsoft Entra ID for authentication, Microsoft SharePoint for file handling, and Koha for library publishing).
+
+==== Project Constraints
+
+Listed are the preliminary constraints for the proposed project:
+
+* Available resources to support the development of the project.
+* Available time of the developers of the project.
+
+==== Major Project Milestones
+
+[%header,cols=2*]
+|===
+|Project Milestone
+|Target Date (mm/dd/yyyy)
+
+Project Start
+04/18/2023
+
+|Project Analysis
+|06/09/2023
+
+|Project Planning
+|06/18/2023
+
+|Project Design
+|08/14/2023-11/14/2023
+
+|Project Implementation and Testing
+|01/10/2024-03/05/2024
+
+|Project Deployment
+|05/31/2024
+
+|*Project Complete*
+|*06/27/2024*
+|===
+
+
+=== Strategic Alignment
+
+The goals of PubRAMS are in line with Asia Pacific College’s (APC) objectives. Given APC’s emphasis on teaching students practical skills through real-world projects in project-based learning (PBL) courses, there’s a critical need for a dedicated system to manage these projects. Currently, the process relies on manual interactions from users within the workflow. 
+
+With that in mind, PubRAMS seeks to simplify and automate this process through being a dedicated publishing system tailored for PBL projects submitted by APC students.
+
+=== Cost Benefit Analysis
+
+==== Benefits
+
+Listed are the expected benefits to be associated with the completion of the project, should it be implemented:
+
+* Improved user experience for all involved in the publishing of project documents and insight gathering.
+* Partially decongested communications channels (i.e. MS Teams and MS Outlook).
+* Improved efficiency in encoding information for publishing in the library system and gathering data for insights.
+
+==== Costs
+
+Listed are the expected costs for the implementation of the project:
+
+* Maintenance costs of $98.36/month to host and maintain the servers running the system.
+* License costs of $12.50/user per month to maintain access to Microsoft's services.
+
+[%header,cols=2*]
+|===
+2+|Summary Budget - List component project costs (Prototype)
+
+|*Project Component*
+|*Monthly Cost*
+
+|Microsoft 365 Business Standard
+|$12.50/user per month
+
+|Microsoft Azure Estimate
+|$98.36/month
+
+|*Total*
+|*$110.86/month or P6349.28/month*
+|===
+
+=== Alternatives Analysis
+
+==== Option 1: Do nothing (status quo)
+
+In this option, APC would continue performing processes manually across different communications channels.
+
+Pros.:: No need to provision new resources. Staff are already experienced with the current processes.
+
+Cons.:: Process remains inconvenient, tedious, and potentially confusing.
+
+==== Option 2: Microsoft Power Platform
+
+In this option, APC would provision more services from Microsoft, leveraging their different integrations to automate processes.
+
+Pros.:: Integrates well with some of the services the school is currently taking advantage of.
+
+Cons.:: License costs scale with the number of users. Lacks functionality needed to serve the specific needs of the client; custom code would still be required. 
+
+==== Option 3: NextCloud
+
+In this option, APC would deploy NextCloud services. These services offer similar functionality to the Microsoft suite of applications, including automation.
+
+Pros.:: Compared to MS Power Platform, has no licensing costs.
+
+Cons.:: Does not integrate with services currently being used by APC as well as MS Power Platform. Lacks functionality needed to serve the specific needs of the client; custom code would still be required.
+
+==== Option 4: DSpace
+
+In this option, APC would deploy a DSpace repository. DSpace is open-source repository software that allows an institution to host open-access publications.
+
+Pros.:: Provides a platform to showcase open-access publications.
+
+Cons.:: Lacks functionality needed to serve the specific needs of the client; custom code would still be required.

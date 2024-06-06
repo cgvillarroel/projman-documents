@@ -1,0 +1,140 @@
+== Project Charter Plan
+
+=== Executive Summary
+
+The process for publishing student project documents into the library of Asia Pacific College (APC) is tedious. It goes through multiple stages of approval across different departments and lacks tools for tracking progress. It also lacks systems for collecting insights regarding these projects. The PubRAMS project aims to create a system that will manage these processes and provide tools for better operational efficiency. The project will continue to integrate with current services to ensure smooth migration. 
+
+=== Project Purpose/Justification
+
+==== Business Need/Case
+
+Students’ projects in APC go through a long process of submission through the school’s Microsoft platforms. Interactions through these different platforms create a fragmented process of submission, thus making the process tedious for everyone involved. As such, this project was created to develop a dedicated system that will handle student projects. It intends to simplify the process among involved personnels by integrating all project submission processes in one system. Other personnels such as the School of Computing and Information Techology’s (SoCIT) PBL Coordinator will be able to generate reports of all the submitted projects to evaluate what type of projects the students are inclined to do. The system can aid in promoting a diverse set of project topics to students in the future.
+
+==== Business Objectives
+
+The business objectives for this project are the following:
+
+* Develop a dedicated system that consolidates the processes involved in project submission and publishing
+* Simplify all interactions involved in the completing and archiving of projects by reducing the steps by at least 10%
+* Gain deeper insights into the projects adopted by students
+
+=== Project Description
+
+The project involves the implementation of a new platform that will consolidate and simplify the processes involved in project document publishing. Each user will have all relevant projects compiled into a single view, and actionable items will be highlighted. The progress of every project will also be tracked and displayed, and once action is taken, the users of the following steps will be notified. Tools will also be provided to aid in the most tedious tasks, such as encoding data into Koha and gathering data.
+
+==== Project Objectives and Success Criteria
+
+To declare this project successful, the following objectives must be met within the designated time:
+
+* Develop a dedicated system that consolidates the processes involved
+* Simplify all interactions involved in the completing and archiving of projects by reducing the steps by at least 10%
+* Gain deeper insights into the projects adopted by students
+
+
+==== Requirements
+
+This project must meet the following list of requirements in order to achieve success.  
+
+* The project team must have a clear understanding of the processes done by the stakeholders prior to the development of this project.
+* The project team must define the scope of the project including but not limited to its features to be implemented given the time period.
+* The project team must obtain approval from stakeholders to ensure it is up to standard.
+* The system developed must be tested by its developers and possible users to ensure its functionality and quality.
+
+Additional requirements may be added as necessary, with project sponsor approval, as the project moves forward.
+
+==== Constraints
+The following constraints pertain to the PubRAMS project:
+* This project must be developed within 14 weeks.
+* Tools to be used for this project must have the ability to be integrated to current APC systems.
+* Additional resources to be used in this project should be communicated to the school’s IT Resource Office
+
+==== Assumptions
+
+The following are a list of assumptions.  Upon agreement and signature of this document, all parties acknowledge that these assumptions are true and correct:
+
+* This project has the full support of the project sponsor, stakeholders, and all departments
+* The purpose of this project will be communicated throughout the company prior to deployment
+* The IT Resource Office (ITRO) will provide additional resources if necessary
+
+==== Preliminary Scope Statement
+
+The PubRAMS project will develop the project following the software development life cycle (SDLC). This will include the following: analysis and planning, designing, implementing, testing, and deploying. All types of resources to be used for this project will be managed by the project manager. The system will focus solely on the School of Computing and Information Technology’s use only. General features of the system are identified to support the completion of the project. Additional features, such as nice-to-have features, are identified for future iteration of the project.
+
+
+=== Risks
+
+The following risks for the PubRAMS project have been identified.  The project manager will determine and employ the necessary risk mitigation/avoidance strategies as appropriate to minimize the likelihood of these risks:  
+
+* Inability to integrate with current APC systems
+* Lack of personnel resources may delay certain implementations of features
+* Time constraints to the development of this project may render its quality below standards
+
+=== Project Deliverables
+
+The following deliverables must be met upon the successful completion of the PubRAMS project.  Any changes to these deliverables must be approved by the project sponsor.
+
+* At least 90% working prototype of the publishing system
+* Technical documentation for the publishing system
+* Recommendation list for future/further development
+
+=== Summary Milestone Schedule
+
+The project Summary Milestone Schedule is presented below. As requirements are more clearly defined, this schedule may be modified. Any changes will be communicated through project status meetings by the project manager.
+
+[%header,cols=2*]
+|===
+2+|Summary Milestone Schedule – List key project milestones relative to project start.
+
+|*Project Milestone*
+|*Target Date (mm/dd/yyyy)*
+
+|Project Start
+|04/18/2023
+
+|Project Analysis
+|06/09/2023
+
+|Project Planning
+|06/18/2023
+
+|Project Design
+|08/14/2023-11/14/2023
+
+|Project Implementation and Testing
+|01/10/2024-03/05/2024
+
+|Project Deployment
+|05/31/2024
+
+|*Project Complete*
+|*06/27/2024*
+|===
+
+=== Summary Budget
+
+The following table contains a summary budget based on the planned cost components and estimated costs required for successful completion of the project.
+
+[%header,cols=2*]
+|===
+2+|Summary Budget – List component project costs (Prototype)
+
+|*Project Component*
+|*Monthly Cost*
+
+|Microsoft 365 Business Standard
+|$12.50/user per month
+
+|Microsoft Azure Estimate
+|$98.36/month
+
+|*Total*
+|*$110.86/month or P6349.28/month*
+|===
+
+=== Project Approval Requirements
+
+The PubRAMS project will be considered successful once the project team develops at least 90% of the working system that is tested and deemed acceptable by the client’s standards. Additionally, success can be gauged by evaluating if the project’s objectives were met. Success will be determined by a key stakeholder, who will authorize the completion of the project.
+
+=== Project Manager
+
+Chase Villarroel has been voted as the team’s Project Manager for the duration of the PubRAMS projects. Mr. Villarroel is responsible for managing project tasks, scheduling meetings with the stakeholders, and setting deliverables. He also coordinates with the school’s IT Resource Office to communicate all the project resource requirements. His team consists of four of his peers at the college. The team’s project adviser, who also happens to be the director of the school’s IT Resources, is authorized to approve all budget expenditures up to, and including, the allocated budget amounts. Lastly, Mr. Villarroel is required to provide weekly updates to the Project Sponsor.

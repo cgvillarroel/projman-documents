@@ -1,0 +1,11 @@
+*
+
+!/src/
+!/src/*
+
+!/templates/
+!/templates/*
+!/.gitignore
+!/build.ps1
+!/compile.lua
+!/opts.yaml
