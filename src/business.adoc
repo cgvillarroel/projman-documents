@@ -121,8 +121,8 @@ Listed are the preliminary constraints for the proposed project:
 |Project Milestone
 |Target Date (mm/dd/yyyy)
 
-Project Start
-04/18/2023
+|Project Start
+|04/18/2023
 
 |Project Analysis
 |06/09/2023
