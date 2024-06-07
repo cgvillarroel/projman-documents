@@ -139,8 +139,8 @@ Project Start
 |Project Deployment
 |05/31/2024
 
-h|Project Complete
-h|06/27/2024
+s|Project Complete
+s|06/27/2024
 |===
 
 
@@ -180,8 +180,8 @@ h|Monthly Cost
 |Microsoft Azure Estimate
 |$98.36/month
 
-h|Total
-h|$110.86/month or P6349.28/month
+s|Total
+s|$110.86/month or P6349.28/month
 |===
 
 === Alternatives Analysis

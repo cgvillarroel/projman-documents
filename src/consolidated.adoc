@@ -60,7 +60,7 @@ ifndef::backend-docbook5[]
 
 endif::backend-docbook5[]
 
-== Company Profile
+include::company.adoc[]
 
 include::business.adoc[]
 
