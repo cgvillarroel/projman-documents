@@ -38,6 +38,8 @@ A build script is provided for convenience:
 ./build
 ----
 
+This will produce a PDF and an AsciiDoc file where all includes are expanded. The contents of the AsciiDoc file will also be copied to the clipboard.
+
 [NOTE]
 ====
 Before trying to do your first build, you should first update MiKTeX by doing the following:

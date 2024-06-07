@@ -22,11 +22,6 @@ pandoc -d opts.yaml
 if (-not $?) { exit 1 }
 write-host "Done"
 
-# pandoc escapes latex in docbooks & ieee is called ieeetr in bibtex
-write-host -nonewline "Tweaking LaTeX file... `t`t`t"
-(get-content build/consolidated.tex).replace("\{", "{").replace("\}", "}").replace("\textbackslash ", "\").replace("ieee", "ieeetr") | set-content build/consolidated.tex
-write-host "Done"
-
 # BUILD LATEX
 cd build
 try
