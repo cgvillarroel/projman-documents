@@ -85,8 +85,8 @@ The project Summary Milestone Schedule is presented below. As requirements are m
 |===
 2+|Summary Milestone Schedule – List key project milestones relative to project start.
 
-|*Project Milestone*
-|*Target Date (mm/dd/yyyy)*
+h|Project Milestone
+h|Target Date (mm/dd/yyyy)
 
 |Project Start
 |04/18/2023
@@ -106,8 +106,8 @@ The project Summary Milestone Schedule is presented below. As requirements are m
 |Project Deployment
 |05/31/2024
 
-|*Project Complete*
-|*06/27/2024*
+h|Project Complete
+h|06/27/2024
 |===
 
 === Summary Budget
@@ -118,8 +118,8 @@ The following table contains a summary budget based on the planned cost componen
 |===
 2+|Summary Budget – List component project costs (Prototype)
 
-|*Project Component*
-|*Monthly Cost*
+h|Project Component
+h|Monthly Cost
 
 |Microsoft 365 Business Standard
 |$12.50/user per month
@@ -127,8 +127,8 @@ The following table contains a summary budget based on the planned cost componen
 |Microsoft Azure Estimate
 |$98.36/month
 
-|*Total*
-|*$110.86/month or P6349.28/month*
+h|Total
+h|$110.86/month or P6349.28/month
 |===
 
 === Project Approval Requirements

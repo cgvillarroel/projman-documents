@@ -139,8 +139,8 @@ Project Start
 |Project Deployment
 |05/31/2024
 
-|*Project Complete*
-|*06/27/2024*
+h|Project Complete
+h|06/27/2024
 |===
 
 
@@ -171,8 +171,8 @@ Listed are the expected costs for the implementation of the project:
 |===
 2+|Summary Budget - List component project costs (Prototype)
 
-|*Project Component*
-|*Monthly Cost*
+h|Project Component
+h|Monthly Cost
 
 |Microsoft 365 Business Standard
 |$12.50/user per month
@@ -180,8 +180,8 @@ Listed are the expected costs for the implementation of the project:
 |Microsoft Azure Estimate
 |$98.36/month
 
-|*Total*
-|*$110.86/month or P6349.28/month*
+h|Total
+h|$110.86/month or P6349.28/month
 |===
 
 === Alternatives Analysis
