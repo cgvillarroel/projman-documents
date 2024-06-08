@@ -1,0 +1,84 @@
+== Scope Management Plan
+
+=== Introduction
+
+=== Scope Management Approach
+
+=== Roles and Responsibilities
+
+The following roles and responsibilities have been established in regard to managing the scope of the project:
+
+Project Manager.:: Is responsible for the overall management of the project and its scope.
+Project Team.:: Executes the project, verifying the feasibility of the established scope, and raises concerns that may require scope changes.
+Key Stakeholders.:: Provide input and approve changes.
+
+=== Scope Definition
+
+The scope of this project includes the development of a new platform that will consolidate and simplify the processes involved in project document publishing. This platform should compile all relevant projects and details into easily navigable views. It should also provide tools for tracking progress and automating tedious tasks such as encoding and data collection.
+
+=== Project Scope Statement
+
+This section details the work and deliverables that are and are not included within the scope of the project. 
+
+==== Product Scope Description
+
+The project involves the implementation of a new platform that will consolidate and simplify the processes involved in project document publishing. Each user will have all relevant projects compiled into a single view, and actionable items will be highlighted. The progress of every project will also be tracked and displayed, and once action is taken, the users of the following steps will be notified. Tools will also be provided to aid in the most tedious tasks, such as encoding data into Koha and gathering data.
+
+==== Product Acceptance Criteria
+
+The project will be considered completed when the following criteria are met:
+
+* All required features have been implemented and tested.
+* The system has been successfully deployed and is accessible to APC students and staff.
+* The key stakeholders verify that all established requirements have been met.
+
+==== Project Deliverables
+
+The following deliverables must be completed to deem the project complete:
+
+* The project document publishing system as described by the requirements
+* Technical documentation.
+* User manuals and documentation.
+
+==== Project Exclusions
+
+The following are not included within the scope of the project:
+
+* Features not listed within the project scope statement.
+* Maintenance beyond the initial deployment after the project is deemed to be completed.
+
+==== Project Constraints
+
+Listed are the preliminary constraints for the proposed project:
+
+* Available resources to support the development of the project.
+* Available time of the developers of the project.
+
+==== Project Assumptions
+
+Listed are the preliminary assumptions for the proposed project:
+
+•	The system will only be accessible by Asia Pacific College (APC) students and staff.
+•	APC has the necessary resources to support the development, deployment, and maintenance of the system.
+•	Where possible, the project will be able to take advantage of systems already currently being used by APC (namely Microsoft Entra ID for authentication, Microsoft SharePoint for file handling, and Koha for library publishing).
+
+=== Work Breakdown Structure
+
+
+=== Scope Verification
+
+To verify that the scope of the project is maintained and adhered to, the team will be taking advantage of the following methods:
+ 
+Quality Checklists.:: The requirements of the system and expectations of the stakeholders will be compiled and maintained. These criteria will be used as a reference to ensure that the scope is adhered to.
+Work Performance Measurements.:: Various measurements and metrics will be used to monitor the progress of the deliverables and ensure that the project is adhering to the scope.
+Scope Baseline.:: The original scope of the project will be kept as a reference of the deviations and evolution of the scope throughout the development of the project.
+Formal Acceptance.:: Finally, to ensure that the project and its deliverables serve the needs and meet the expectations of the stakeholders, feedback and formal acceptance of the stakeholders will be sought.
+
+=== Scope Control
+
+Scope control will be included in the regular monitoring processes during the development of the project. Regular periodic reviews will be conducted throughout the project to assess many different aspects. Among these are the progress of the deliverables and any deviations observed. This will be conducted by the project manager. Should any modification to the project scope seem necessary, it must first be approved by the various roles involved in managing the scope:
+
+. Any member or stakeholder may make a request to change the scope.
+. The project manager and project sponsor will assess whether the change is necessary. The project sponsor takes precedence over the project manager.
+. Should it be rejected, the current scope will be maintained.
+. Should it be approved, the scope and documentation will be updated, and all involved will be notified.

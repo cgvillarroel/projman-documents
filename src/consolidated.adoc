@@ -70,6 +70,8 @@ include::charter.adoc[]
 
 include::stakeholder.adoc[]
 
+include::scope.adoc[]
+
 include::change.adoc[]
 
 include::implementation.adoc[]
