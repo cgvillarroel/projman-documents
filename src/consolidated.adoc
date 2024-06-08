@@ -1,8 +1,10 @@
 = G07 SemiByte PubRAMS
+:sectnums:
 :toc:
-:toclevels: 1
+:toclevels: 3
 
 ifndef::backend-docbook5[]
+:sectnums!:
 == Project Title
 
 *PubRAMS: A project document publishing system for Asia Pacific College*
@@ -57,7 +59,7 @@ ifndef::backend-docbook5[]
 |Alexandra Noynay
 |asnoynay@student.apc.edu.ph
 |===
-
+:sectnums:
 endif::backend-docbook5[]
 
 include::company.adoc[]
