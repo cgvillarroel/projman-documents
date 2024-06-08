@@ -1,0 +1,79 @@
+== Implementation Plan
+
+=== Executive Summary
+
+This project is a collaboration between Asia Pacific College (APC) and the project team. It is meant to serve APC students and staff. As such, while SemiByte develops the system, APC provides input to guide the project towards success, ensuring that their needs are met. However, the scope of the involvement of the project team is only limited to the development of the system and does not include maintenance and support. As such, the system must be transitioned to APC at the end of development. The transition-out plan outlines the details of such a transition. At a high level, this transition will consist of documentation, in the form of instruction manuals, and knowledge transfer meetings with the relevant staff of APC.
+
+There is also the case of needing to transfer the work to another contractor prior to the completion of the project or prior to the transition of the project to the client. The transition to such contractors will be executed in a similar manner to that of a transition to the client. For example, the transition team will consist of the equivalent members of the new contractor: system admin, developer, etc.
+
+=== Transition Team Organization
+
+A team will be established to transition the system to the client. This team consists of the members in the table below. The project team leader will serve as the transition team leader, while relevant APC staff will be the members. This team is composed of the roles involved in deploying the system. This will allow them to work closely.
+
+[%header,cols=3*]
+|===
+|Name
+|Position
+|Role
+
+|Chase Villarroel
+|Project Team Leader
+|Transition Team Leader
+
+|Ainard Marcos
+|APC System Admin
+|Transition Team Member
+
+|Cyrus Gabilla
+|APC Developer
+|Transition Team Member
+
+|Jose Flavio Castillo
+a|Project Adviser
+
+APC IT Resources Office Head
+|Transition Team Member
+
+|Manuel Sebastian Sanchez
+a|Project Sponsor
+
+APC Project-Based Learning Coordinator
+|Transition Team Member
+|===
+
+=== Work Execution During Transition
+
+While it is aimed for the system to have been completed by the time of transition, other work needed to properly execute the transition:
+
+Training.:: Technical documentation and user instruction manuals will be provided, and formal training sessions will be conducted to properly inform the new users and staff on how to properly operate the system.
+Official deployment.:: The development of the system involved the use of development environments and integrations; the system must be transitioned to use the official resources of the client.
+Updating and archiving of documents.:: The project team must update the project documents accordingly to reflect the completion of the project. These will then be prepared and stored for archival purposes.
+Review meeting.:: The project team and client will then meet to discuss the completion of the project, as well as gain formal approval and acceptance.
+
+=== Property Transition
+
+==== Intellectual Property
+
+
+
+==== User Accounts and Passwords
+
+The development of the system involves the use of a development environment and integrations, but the completed system will take advantage of the client's environment. One of the services present in these environments is Microsoft Entra ID, which obviates the need to transition user accounts and passwords. Despite this, an admin account must be specified within the system, and this will be stored as a secret within the production environment.
+
+=== Knowledge Transfer
+
+For the client to effectively operate the new system, they must have a good understanding of how the system works. This involves the transfer of knowledge regarding the system and its operation. This will be addressed in two ways:
+
+Documentation.:: Various forms of documentation will be created and provided to guide admins, staff, and users in the operation and maintenance of the system:
+* Technical documentation that describes the design, implementation, and maintenance of the system.
+* User manuals, in the form of easily navigable pages or wikis, that guide users through common processes.
+* If possible, screen recordings may also be created to more effectively communicate the contents of the user manual.
+Training.:: Meetings and sessions will be held to formally train the admins on the effective operation of the system.
+
+=== Schedule
+
+
+
+=== Handover and Acceptance
+
+To formally consider the project as completed, the system will be deployed and monitored for a short trial period. At the end of this trial period, a meeting will be held by the transition team to discuss the completion of the project. This will involve verifying that the needs of the client have been met through a checklist detailing the project scope and requirements, as well as verifying that the knowledge transfer has been sufficient. Once the system and knowledge transfer have been deemed acceptable, the members of the transition team shall formally sign off the project.
