@@ -67,3 +67,5 @@ include::business.adoc[]
 include::charter.adoc[]
 
 include::stakeholder.adoc[]
+
+include::change.adoc[]

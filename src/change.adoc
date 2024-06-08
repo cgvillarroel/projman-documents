@@ -1,0 +1,51 @@
+== Change Management Plan
+
+=== Introduction
+
+This project involves the development of software that intersects with many domains and departments within the school, and as such, changes may become necessary to ensure that the needs of the key stakeholders are addressed. The change management plan discusses the appropriate people, channels, and methods involved in implementing such changes.
+
+=== Change Control Board
+
+To properly assess the necessity of proposed changes, a change control board will be established to review and approve changes. The members are listed below. These members are to discuss and decide the necessity of changes to ensure that the project objectives are achieved in an organized and timely manner. Should a consensus not be reached, the decision of the head of the board will take precedence over the others. Approved changes will be documented, and all involved in the development of the project will be notified.
+
+[%header,cols=3*]
+|===
+|Name
+|Position
+|Role
+
+|Manuel Sebastian Sanchez
+|Project Sponsor
+|CCB Head
+
+|Jose Flavio Castillo
+|Project Adviser
+|CCB Member
+
+|Chase Villarroel
+|Project Team leader
+|CCB Member
+|===
+
+=== Roles and Responsibilities
+
+To ensure that changes are smoothly implemented, the following describes the roles and responsibilities involved in the change management process:
+
+Change Control Board.::
+* Review and evaluate the necessity of the changes proposed.
+Project Manager.::
+* Update documentation
+* Mediate communications
+* Notify all involved.
+Team.::
+* Propose changes when necessary
+* Implement changes.
+
+=== Change Control Process
+
+The change control process is similar to the scope control process. However, it is not necessary to conduct regular monitoring; requests may be made at any point in time when deemed necessary. The process is as follows:
+
+. Any member or stakeholder may make a change request.
+. The project manager and project sponsor will assess whether the change is necessary. The project sponsor takes precedence over the project manager.
+. Should it be approved, the involved people will be notified, and the project manager will update the documentation accordingly.
+. The team will then implement the change.
