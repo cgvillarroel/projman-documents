@@ -54,7 +54,7 @@ Review meeting.:: The project team and client will then meet to discuss the comp
 
 ==== Intellectual Property
 
-
+Along with the transfer of the system itself, the intellectual property associated with the project and its development must also be transferred. This includes documentation, service agreements, and original designs and plans. To properly do this, all intellectual property must be identified. The agreements surrounding these properties must then be reviewed and updated to ensure that needs are met. Finally, these will be protected through the use of legal means, such as non-disclosure agreements, and transferred to the clients.
 
 ==== User Accounts and Passwords
 
