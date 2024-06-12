@@ -74,4 +74,6 @@ include::scope.adoc[]
 
 include::change.adoc[]
 
+include::quality.adoc[]
+
 include::implementation.adoc[]
