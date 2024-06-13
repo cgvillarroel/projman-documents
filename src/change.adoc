@@ -46,6 +46,6 @@ Team.::
 The change control process is similar to the scope control process. However, it is not necessary to conduct regular monitoring; requests may be made at any point in time when deemed necessary. The process is as follows:
 
 . Any member or stakeholder may make a change request.
-. The project manager and project sponsor will assess whether the change is necessary. The project sponsor takes precedence over the project manager.
+. The change control board will assess whether the change is necessary. The project sponsor takes precedence over the other members of the board.
 . Should it be approved, the involved people will be notified, and the project manager will update the documentation accordingly.
 . The team will then implement the change.
