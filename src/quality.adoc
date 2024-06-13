@@ -6,10 +6,10 @@ A Quality Management Plan is necessary for agile projects in order to assure qua
 
 The following Quality Management Plan aims to:
 
-. Make sure the project satisfies or exceeds the expectations of stakeholders.
-. To achieve quality standards, clarify the roles and responsibilities of team members.
-. Determine and fix any potential quality problems.
-. Establish a structure to manage and uphold project quality across the course of the project.
+* Make sure the project satisfies or exceeds the expectations of stakeholders.
+* To achieve quality standards, clarify the roles and responsibilities of team members.
+* Determine and fix any potential quality problems.
+* Establish a structure to manage and uphold project quality across the course of the project.
 
 PubRAMS, a Project Document Publishing System managed by SemiByte, lead by Project Manager, Chase Villarroel, assures functionality and compatibility with the organization’s technological infrastructure as the Quality Management Plan iterates through how quality is controlled, maintained, and assessed throughout the lifecycle of the project. It ensures that the project meets or exceeds the expectations of all stakeholders.
 
@@ -70,9 +70,11 @@ Ensuring Quality of Processes requires:
 * The development team to create and follow a configuration management process to properly assess and ensure consistent development, testing, and deployment of the system.
 
 For compliance demonstration:
+
 * PubRAMS will undergo test and evaluation against established quality standards and requirements before deployment to the client.
 * The development team will maintain comprehensive documentation of all testing and evaluation for quality assurance which will be made available to the client upon request.
 * The development team will demonstrate the product to the client to ensure the system meets their requirements and expectations.
+
 === Quality Assurance
 
 The Quality Assurance process for PubRAMS will be included in the Agile and Scrum methodologies to ensure quality through collaboration and continuous improvement. The following activities will be done:
@@ -81,21 +83,21 @@ Test Plan and Test Case Review:: Review all test plans and test cases created by
 Test Monitoring and Analysis:: Actively monitor testing processes, including unit testing, integration testing, and system testing. Analysis would identify trends, patterns, or recurring defects, enabling them to help pinpoint areas that require additional testing or to highlight potential systematic issues.
 Defect Identification and Reporting:: Identified defects will be documented in defect reports, which includes:
 
-    . Description of the defect
-    . Steps to reproduce the defect
-    . Expected behavior vs. Actual behavior
-    . everity level (critical, major, minor)
-    . riority level (high, medium, low)
+    * Description of the defect
+    * Steps to reproduce the defect
+    * Expected behavior vs. Actual behavior
+    * Severity level (critical, major, minor)
+    * Priority level (high, medium, low)
 
 Clear documentation helps developers to prioritize and efficiently resolve defects.
 
 Quality Control Procedure Audits:: Conduct periodic audits of the quality control procedures implemented throughout the project lifecycle. Audits will assess the effectiveness of testing activities, code reviews, and other control measures. As such is to identify potential weaknesses in the quality control process and suggest improvements for future iterations.
 Quality Assurance Reports:: Prepare and maintain reports to summarize the activities, findings, and recommendations. Such reports may include:
 
-    . Test execution status and results
-    . Defect trends and analysis
-    . Audit findings and recommendations
-    . Overall quality risk assessment
+    * Test execution status and results
+    * Defect trends and analysis
+    * Audit findings and recommendations
+    * Overall quality risk assessment
 
 Such reports keep stakeholders informed about the quality status of the project and are able to facilitate decision making.
 
