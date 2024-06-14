@@ -2,7 +2,36 @@
 
 === Introduction
 
+The scope of work will be established, confirmed, monitored, and validated according to the guidelines in the scope management plan. The scope management plan’s goal is to guarantee that the project remains on track and achieves its intended scope within the established timetable and budget. To create the scope management plan for the PubRAM, the team will follow the five-step process of Project Scope Management: collecting requirements, defining scope, creating a Work Breakdown Structure (WBS), verifying scope, and controlling scope.
+
+==== Collect Requirements
+
+To gather the necessary requirements for this project, we will conduct interviews with our stakeholders. This approach will help us understand their specific needs and preferences related to their roles in the project.
+
+==== Define Scope
+
+To define the project scope, user stories and the scope statement will be incorporated into a comprehensive project management plan. This plan will be continuously updated to reflect any changes to the project's scope as it evolves.
+
+==== Create WBS
+
+The project scope is divided into smaller, more manageable units using a Work Breakdown Structure (WBS). This aids in enhancing the project team's capacity to efficiently manage the project by breaking down the scope into understandable components. The resultant WBS visually depicts the project's scope, rendering it more accessible to all team members.
+
+==== Verify Scope
+
+In this phase, project deliverables are thoroughly assessed and validated to ensure they align with the specifications outlined in the project scope statement. This process aids in maintaining the project's schedule and ensures that the deliverables fulfill stakeholders' requirements. To achieve this, our team will conduct a walkthrough of the project deliverables with the stakeholders. This will ensure that the deliverables align with their needs and expectations.
+
+==== Control Scope
+This phase involves overseeing and managing alterations to the project's scope. This includes managing modifications to the project's scope and addressing any instances of scope creep that may occur during project execution.
+
 === Scope Management Approach
+
+. *Scope Authority and Responsibility* - The Project Manager, Jojo F. Castillo, holds the primary authority and responsibility for scope management, supported by guidance from the Project Sponsor, Manuel Sebastian S. Sanchez, to ensure the project is successfully executed within its defined scope and timeline.
+. *Scope Definition* - To precisely define the project scope, SemiByte will utilize various documents, including but not limited to: the Scope Statement, Statement of Work (SOW), Work Breakdown Structure (WBS), WBS Dictionary, and other relevant materials. These documents collectively ensure a comprehensive understanding of the project's scope, objectives, requirements, and deliverables.
+. *Scope Measure and Verification* - To clearly establish the project's measurement and verification, the following metrics will be used:
+** Success Criteria - These measures will evaluate compliance to the defined scope of work and measure overall project completion.
+** Project Sponsor Approval - The project sponsor's crucial approval will verify that the project has adhered to its intended scope, as specified by their recommendations, approvals, and constraints.
+. *Scope Change Process* - Jojo F. Castillo, the project manager, and all team members are authorized to adjust the project scope as needed. However, changes will only proceed after thorough assessment of potential impacts on schedule, budget, and other factors. Approval from project sponsor Manuel Sebastian S. Sanchez is required before implementing any modifications.
+. *Acceptance of Final Project Deliverables* - The project sponsor, Manuel Sebastian S. Sanchez, must approve the final project deliverable and the project scope. Jojo F. Castillo, the project manager, will ensure that all deliverables align with the scope statement and that any changes are promptly communicated to the project sponsor. Close collaboration between the project manager and sponsor will ensure that all deliverables meet acceptance criteria and receive final approval.
 
 === Roles and Responsibilities
 
@@ -64,6 +93,9 @@ Listed are the preliminary assumptions for the proposed project:
 
 === Work Breakdown Structure
 
+The project will be broken down into five phases: initiation, planning, execution, control, closeout. Below is the Work Breakdown Structure (WBS) tree view diagram, which serves as an overview.
+
+image:../images/wbs_tree.png[WBS Tree Structure View]
 
 === Scope Verification
 

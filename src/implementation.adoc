@@ -70,10 +70,6 @@ For the client to effectively operate the new system, they must have a good unde
 ** If possible, screen recordings may also be created to more effectively communicate the contents of the user manual.
 * *Training*: Meetings and sessions will be held to formally train the admins on the effective operation of the system.
 
-=== Schedule
-
-
-
 === Handover and Acceptance
 
 To formally consider the project as completed, the system will be deployed and monitored for a short trial period. At the end of this trial period, a meeting will be held by the transition team to discuss the completion of the project. This will involve verifying that the needs of the client have been met through a checklist detailing the project scope and requirements, as well as verifying that the knowledge transfer has been sufficient. Once the system and knowledge transfer have been deemed acceptable, the members of the transition team shall formally sign off the project.
