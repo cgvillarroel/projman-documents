@@ -31,15 +31,15 @@ To properly assess the necessity of proposed changes, a change control board wil
 
 To ensure that changes are smoothly implemented, the following describes the roles and responsibilities involved in the change management process:
 
-Change Control Board.::
-* Review and evaluate the necessity of the changes proposed.
-Project Manager.::
-* Update documentation
-* Mediate communications
-* Notify all involved.
-Team.::
-* Propose changes when necessary
-* Implement changes.
+* *Change Control Board*:
+** Review and evaluate the necessity of the changes proposed.
+* *Project Manager*:
+** Update documentation
+** Mediate communications
+** Notify all involved.
+* *Team*:
+** Propose changes when necessary
+** Implement changes.
 
 === Change Control Process
 

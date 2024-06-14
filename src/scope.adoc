@@ -8,9 +8,9 @@
 
 The following roles and responsibilities have been established in regard to managing the scope of the project:
 
-Project Manager.:: Is responsible for the overall management of the project and its scope.
-Project Team.:: Executes the project, verifying the feasibility of the established scope, and raises concerns that may require scope changes.
-Key Stakeholders.:: Provide input and approve changes.
+* *Project Manager*: Is responsible for the overall management of the project and its scope.
+* *Project Team*: Executes the project, verifying the feasibility of the established scope, and raises concerns that may require scope changes.
+* *Key Stakeholders*: Provide input and approve changes.
 
 === Scope Definition
 
@@ -69,10 +69,10 @@ Listed are the preliminary assumptions for the proposed project:
 
 To verify that the scope of the project is maintained and adhered to, the team will be taking advantage of the following methods:
  
-Quality Checklists.:: The requirements of the system and expectations of the stakeholders will be compiled and maintained. These criteria will be used as a reference to ensure that the scope is adhered to.
-Work Performance Measurements.:: Various measurements and metrics will be used to monitor the progress of the deliverables and ensure that the project is adhering to the scope.
-Scope Baseline.:: The original scope of the project will be kept as a reference of the deviations and evolution of the scope throughout the development of the project.
-Formal Acceptance.:: Finally, to ensure that the project and its deliverables serve the needs and meet the expectations of the stakeholders, feedback and formal acceptance of the stakeholders will be sought.
+* *Quality Checklists*: The requirements of the system and expectations of the stakeholders will be compiled and maintained. These criteria will be used as a reference to ensure that the scope is adhered to.
+* *Work Performance Measurements*: Various measurements and metrics will be used to monitor the progress of the deliverables and ensure that the project is adhering to the scope.
+* *Scope Baseline*: The original scope of the project will be kept as a reference of the deviations and evolution of the scope throughout the development of the project.
+* *Formal Acceptance*: Finally, to ensure that the project and its deliverables serve the needs and meet the expectations of the stakeholders, feedback and formal acceptance of the stakeholders will be sought.
 
 === Scope Control
 

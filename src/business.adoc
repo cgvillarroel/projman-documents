@@ -96,8 +96,8 @@ It also aims to enhance the school staff's accessibility to gather data for more
 
 The main goal of the project is to improve the processes involved in publishing project documents. As such, indicators of improved processes could serve as measures for the project's performance. Namely:
 
-User satisfaction.:: This could be measured through surveys, either manually conducted or integrated into the platform. 
-Time saved.:: This could be measured through measuring the difference between a control group undergoing the current processes and a trial group taking advantage of the new platform.
+* *User satisfaction*: This could be measured through surveys, either manually conducted or integrated into the platform. 
+* *Time saved*: This could be measured through measuring the difference between a control group undergoing the current processes and a trial group taking advantage of the new platform.
 
 ==== Project Assumptions
 

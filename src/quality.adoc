@@ -39,12 +39,12 @@ Quality management will be integrated into every aspect during the entire lifecy
 
 The approach includes the following steps:
 
-Define Quality Standards:: The project team will define the quality standards necessary based on Agile and Scrum methodologies, with a focus to deliver value to the customer.
-Quality Planning:: The team will keep in touch and work closely with the stakeholders to properly identify the project requirements to prioritize most important features. The team will create a Product Backlog and set quality goals to ensure that each iteration of the product delivers value and meets quality standards.
-Quality Control:: Quality Control measures will be implemented to ensure that the product meets the defined requirements and quality standards set by the stakeholders. This will include conducting tests and reviews during the lifecycle of the project to identify defects and/or issues.
-Quality Assurance:: Quality assurance measures will be implemented to prevent defects and issues from occurring. The team assures to use best practices and processes to ensure the project meets the established standards and guidelines.
-Continuous improvement:: The quality management plan will be reviewed and updated regularly based on project progress and lessons learned. This will involve collection and analyzation of feedback from stakeholders, identification of areas for improvement, and implementation of changes to improve the overall quality of the project.
-Communication:: Constant communication between the project manager and stakeholders to ensure consistent feedback for it to reflect to the quality of the project.
+. *Define Quality Standards*: The project team will define the quality standards necessary based on Agile and Scrum methodologies, with a focus to deliver value to the customer.
+. *Quality Planning*: The team will keep in touch and work closely with the stakeholders to properly identify the project requirements to prioritize most important features. The team will create a Product Backlog and set quality goals to ensure that each iteration of the product delivers value and meets quality standards.
+. *Quality Control*: Quality Control measures will be implemented to ensure that the product meets the defined requirements and quality standards set by the stakeholders. This will include conducting tests and reviews during the lifecycle of the project to identify defects and/or issues.
+. *Quality Assurance*: Quality assurance measures will be implemented to prevent defects and issues from occurring. The team assures to use best practices and processes to ensure the project meets the established standards and guidelines.
+. *Continuous improvement*: The quality management plan will be reviewed and updated regularly based on project progress and lessons learned. This will involve collection and analyzation of feedback from stakeholders, identification of areas for improvement, and implementation of changes to improve the overall quality of the project.
+. *Communication*: Constant communication between the project manager and stakeholders to ensure consistent feedback for it to reflect to the quality of the project.
 
 The project team will incorporate Agile methodologies in particular Scrum practices, including user stories, sprints, and retrospectives, to ensure that quality is built-in throughout the project's lifecycle and meets the organization's quality standards and the needs of the project stakeholders.
 
@@ -79,26 +79,27 @@ For compliance demonstration:
 
 The Quality Assurance process for PubRAMS will be included in the Agile and Scrum methodologies to ensure quality through collaboration and continuous improvement. The following activities will be done:
 
-Test Plan and Test Case Review:: Review all test plans and test cases created by the developers along with the stakeholders to ensure that the test plans adequately cover all functionalities and nonfunctional requirements of the system.
-Test Monitoring and Analysis:: Actively monitor testing processes, including unit testing, integration testing, and system testing. Analysis would identify trends, patterns, or recurring defects, enabling them to help pinpoint areas that require additional testing or to highlight potential systematic issues.
-Defect Identification and Reporting:: Identified defects will be documented in defect reports, which includes:
+. *Test Plan and Test Case Review*: Review all test plans and test cases created by the developers along with the stakeholders to ensure that the test plans adequately cover all functionalities and nonfunctional requirements of the system.
+. *Test Monitoring and Analysis*: Actively monitor testing processes, including unit testing, integration testing, and system testing. Analysis would identify trends, patterns, or recurring defects, enabling them to help pinpoint areas that require additional testing or to highlight potential systematic issues.
+. *Defect Identification and Reporting*: Identified defects will be documented in defect reports, which includes:
++
+** Description of the defect
+** Steps to reproduce the defect
+** Expected behavior vs. Actual behavior
+** Severity level (critical, major, minor)
+** Priority level (high, medium, low)
 
-    * Description of the defect
-    * Steps to reproduce the defect
-    * Expected behavior vs. Actual behavior
-    * Severity level (critical, major, minor)
-    * Priority level (high, medium, low)
-
++
 Clear documentation helps developers to prioritize and efficiently resolve defects.
+. *Quality Control Procedure Audits*: Conduct periodic audits of the quality control procedures implemented throughout the project lifecycle. Audits will assess the effectiveness of testing activities, code reviews, and other control measures. As such is to identify potential weaknesses in the quality control process and suggest improvements for future iterations.
+. *Quality Assurance Reports*: Prepare and maintain reports to summarize the activities, findings, and recommendations. Such reports may include:
++
+** Test execution status and results
+** Defect trends and analysis
+** Audit findings and recommendations
+** Overall quality risk assessment
 
-Quality Control Procedure Audits:: Conduct periodic audits of the quality control procedures implemented throughout the project lifecycle. Audits will assess the effectiveness of testing activities, code reviews, and other control measures. As such is to identify potential weaknesses in the quality control process and suggest improvements for future iterations.
-Quality Assurance Reports:: Prepare and maintain reports to summarize the activities, findings, and recommendations. Such reports may include:
-
-    * Test execution status and results
-    * Defect trends and analysis
-    * Audit findings and recommendations
-    * Overall quality risk assessment
-
++
 Such reports keep stakeholders informed about the quality status of the project and are able to facilitate decision making.
 
 The quality assurance metrics will be closely monitored, tracked, and reported regularly to ensure the quality of the product. Violations of these standards are to be reviewed and addressed.  The quality assurance procedure will also be reviewed frequently to possibly implement further improvements. PubRAMS must be ensured to meet the best of quality standards and for all quality assurance metrics to be closely monitored.
@@ -107,9 +108,9 @@ The quality assurance metrics will be closely monitored, tracked, and reported r
 
 Quality Control is essential during the development process as it focuses on continuous testing and quality feedback. The process for PubRAMS will include the following:
 
-Development Phase:: Developers will perform unit testing of their code to ensure it meets functional specifications. Code reviews will be conducted to identify potential issues and coding best practices. Integration testing will also be performed to verify the functionality of the different system components working together.
-System Testing Phase:: System integration testing will be conducted to ensure all system components function as a whole. Performance testing will be performed to measure system functionality and efficiency. Security testing will be conducted to identify vulnerabilities and ensure data security.
-User Acceptance Testin (UAT):: Developers and stakeholders will participate in UAT to verify that the system meets their requirements and expectations. A guideline will be developed to guide the users in testing specific functionalities. Usability testing will also be conducted to evaluate the ease of use and user experience of the system.
+. *Development Phase*: Developers will perform unit testing of their code to ensure it meets functional specifications. Code reviews will be conducted to identify potential issues and coding best practices. Integration testing will also be performed to verify the functionality of the different system components working together.
+. *System Testing Phase*: System integration testing will be conducted to ensure all system components function as a whole. Performance testing will be performed to measure system functionality and efficiency. Security testing will be conducted to identify vulnerabilities and ensure data security.
+. *User Acceptance Testin (UAT)*: Developers and stakeholders will participate in UAT to verify that the system meets their requirements and expectations. A guideline will be developed to guide the users in testing specific functionalities. Usability testing will also be conducted to evaluate the ease of use and user experience of the system.
 
 Quality Control of PubRAMS will be an integral part of the development process, focusing on continuous testing, user feedback, and performance monitoring. The team will monitor and assess the quality of the product as part of the Quality Control process, ensuring that it meets the quality requirements and standards of the stakeholders.
 
@@ -119,10 +120,10 @@ Quality Control Measurements will be made during the development process to guar
 
 The following quality control measurements will be used to assess the effectiveness of the quality control processes:
 
-Defect Tracking:: Defects identified during testing will be documented.
-Defect Resolution Rate:: The percentage of defects resolved within a defined timeframe will be measured.
-Test Coverage:: The percentage of system functionality covered by test cases will be tracked.
-User Acceptance Testing Results:: The number of unresolved issues identified during UAT will be tracked.
-Customer Satisfaction Surveys:: Post-launch surveys will be conducted to gauge user satisfaction with the system’s functionality and usability.
+. *Defect Tracking*: Defects identified during testing will be documented.
+. *Defect Resolution Rate*: The percentage of defects resolved within a defined timeframe will be measured.
+. *Test Coverage*: The percentage of system functionality covered by test cases will be tracked.
+. *User Acceptance Testing Results*: The number of unresolved issues identified during UAT will be tracked.
+. *Customer Satisfaction Surveys*: Post-launch surveys will be conducted to gauge user satisfaction with the system’s functionality and usability.
 
 Quality Control metrics will be reviewed, and the method will be adjusted as necessary during sprint reviews and retrospectives, and pinpoint potential improvement areas. The team will have regular assessments of the products’ quality and address any issues to ensure that the product satisfies the standards and requirements necessary.
