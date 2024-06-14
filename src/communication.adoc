@@ -1,0 +1,196 @@
+== Communication Management Plan
+
+=== Introduction
+
+The Communications Management Plan is a crucial component of PubRAMS project as it outlines the communication strategy and protocols of the project team and stakeholders. The plan defines the following:
+
+. The plan defines the type of information that is to be communicated, such as project updates, progress reports, risks and issues. It also specified the level of detail and format for communication, whether verbal or written.
+. The plan outlines the methods of communication that will be used, such as meetings, email, telephone, etc. This would ensure that stakeholders are informed in a timely manner.
+. The plan outlines the frequency of communications, both formal and informal, to ensure that stakeholders are kept informed on a regular basis.
+. The plan defines the roles and responsibilities of team members and stakeholders in terms of communication, including who is responsible for disseminating project information.
+. The plan outlines the communication requirements of the stakeholders and how they will be met.
+. The plan outlines the resources allocated for communication, such as budget and personnel, to ensure that communication is effective and efficient.
+. The plan outlines the protocols for communicating sensitive or confidential information, including who must authorize the release of such information.
+. The plan defines a process for managing changes in communication or the communication process, including how changes are proposed, reviewed, and approved. This ensures that all stakeholders are aware of any changes and that the communication process remains consistent throughout the project.
+. The plan outlines the flow of communication within the project, including how information is shared between team members, stakeholders, and other project partners. This helps to ensure that all stakeholders are informed, and that information is shared in a timely manner.
+. The plan identifies any internal or external constraints that may affect project communications, such as legal or regulatory requirements, and outlines how these constraints will be addressed.
+. The plan outlines any standard templates, formats, or documents that must be used for communicating project information, such as progress reports or meeting minutes. This ensures that all stakeholders are provided with consistent and accurate information.
+. The plan includes an escalation process for resolving any communication-based conflicts or issues that may arise during the project. This helps to ensure that any communication-related issues are addressed and resolved in a timely manner.
+
+Overall, the Communications Management Plan is a key tool that helps to ensure that all stakeholders are informed, and that communication is effective and efficient throughout the Dispatch Directory System project.
+
+=== Communications Management Approach
+
+The communication management approach for PubRAMS project focuses on transparent and continuous communication among the project team members, project manager, and stakeholders. Communication within the project team is crucial to ensure consistency and efficiency in the success of the project. Regular communication through constant updates, scheduled meetings, and the use of appropriate communication tools to ensure all relevant information such as updates, progress reports, risks, and/or issues are to be shared promptly and accurately. This would provide the stakeholders with an overview of the status of the project and potential roadblocks to be faced.
+
+=== Communications Management Constraints
+
+The communications management constraints for PubRAMS project must be identified to be able to adhere to proper communication within the project team. These constraints help to define the limitations and boundaries that may impact the communication process and strategies of the project. By identifying and addressing these constraints, the project team would be able to develop solutions to mitigate the potential challenges and ensure avoidance of problems throughout the project. Such constraints are the following:
+
+* *Limited Availability of Stakeholders*: Stakeholders of the project may not always be available for consultation due to other commitments, leading to potential delays in the progress and feedback of the project.
+* *Limited Availability of Project Team Members*: Team members may have other commitments or responsibilities that may limit their availability on communication regarding the project.
+* *Time Constraint*: The project may be under a tight deadline, which may pose a challenge in scheduling and holding regular meetings.
+
+By recognizing and addressing these constraints, the PubRAMS project may implement strategies to mitigate or reduce impact, ensuring that communication may remain effective and supports the overall success of the project.
+
+=== Stakeholder Communication Requirements
+
+Stakeholders have communication requirements that must be addressed to ensure the success of the PubRAMS project. These requirements are as follows:
+
+* *Clear and Consistent Information Flow*: Stakeholders need accurate and timely information regarding the progress of the project, milestones achieved, and changes that may affect them. This helps in ensuring transparency and keeps the stakeholders aligned with the project objectives.
+* *Specified Communication*: Information regarding the project must only be relayed to those involved that is only relevant specifically to the receiver.
+* *Accessible Documentation*: All relevant documents, such as project plans, status reports, and meeting minutes, must be easily accessible for the stakeholders to ensure access for their convenience.
+* *Effective Meeting Management*: Meetings must be conducted and scheduled conveniently, have clear agendas, and be able to efficiently manage the time of the stakeholder.
+* *Use of Appropriate Communication Tools*: The project must utilize relevant, familiar and accessible communication tools.
+
+By understanding and addressing the specific communication requirements imposed by the stakeholders, the PubRAMS project would be able to foster collaborative and transparent environment, enhancing the engagement with stakeholders and ensure the overall success of the project.
+
+=== Roles
+
+[%header,cols=2*]
+|===
+|Roles
+|Responsibilities
+
+|Project Sponsor
+|A high-level executive who provides financial resources and strategic direction for the project.
+
+|Project Manager
+|A person responsible for overseeing the PubRAMS and ensuring that it aligns with the organization's overall goals and objectives. The program manager might oversee multiple related projects within the organization.
+
+|Key Stakeholders
+|Individuals or groups who have a vested interest in PubRAMS
+
+|Project Leader
+|The person responsible for planning, executing, and closing PubRAMS. The project manager leads the project team and ensures that the system is completed on time, within budget, and to the required quality standards.
+
+|Project Team
+|A person responsible for the technical aspects of PubRAMS, such as the system architecture, database design, and software development. The team ensures that the system meets the required technical specifications and standards, and that it is scalable, secure, and reliable.
+|===
+
+=== Project Team Directory
+
+The following table presents contact information for all persons identified in this communications management plan.  The email addresses and phone numbers in this table will be used to communicate with these people.
+
+[%header,cols=3*]
+|===
+|Role
+|Name
+|Contact Information
+
+|Project Sponsor
+|Manuel Sebastian Sanchez
+|manuels@apc.edu.ph
+
+|Program Manager
+|Jose Flavio Castillo
+|jojoc@apc.edu.ph
+
+|Project Stakeholders
+|Manuel Sebastian Sanchez
+|manuels@apc.edu.ph
+
+|Project Leader
+|Chase Villarroel
+|cgvillarroel@student.apc.edu.ph
+
+|Project Team Member
+|James Alfafara
+|jsalfafara@student.apc.edu.ph
+
+|Project Team Member
+|Jethro Rae Garcia
+|jbgarcia@student.apc.edu.ph
+
+|Project Team Member
+|Aliyah Kirstie Lopez
+|aclopez@student.apc.edu.ph
+
+|Project Team Member
+|Alexandra Noynay
+|asnoynay@student.apc.edu.ph
+|===
+
+=== Communication Methods and Technologies
+
+To ensure effective communication throughout the lifecycle of the PubRAMS project, a variety of methods and technologies to be utilized are as follows:
+
+* *Video Meeting and Conferencing (Microsoft Teams)*: Essential for conducting virtual meetings, presentations, and interactions when on-site meetings cannot be conducted. Video conferencing tools help maintain personal connections and enable visual communication, which is crucial for conveying complex ideas and building rapport among team members.
+* *Project Management Tools (Jira, OpenProject, TeamBox)*: Used for overall project management and collaboration. Such tools are used to provide a platform used to centralize and keep track of tasks, progress monitoring, deadline management, and tracking of project milestones. This may also facilitate transparency and accountability within the project team.
+
+With the use of such tools, PubRAMS project may ensure efficient, effective, and collaborative communication among stakeholders, therefore enhancing project coordination and success.
+
+=== Communications Matrix
+
+The following table identifies the communications requirements for this project.
+[%header,cols=6*]
+|===
+|Channel
+|Type
+|Frequency
+|Audience
+|Responsible Party
+|Delivery Media
+
+|Daily Scrum 
+|Meeting
+|Daily
+|Project Team
+|Project Leader
+|Microsoft Teams
+
+|Sprint Planning
+|Meeting
+|Bi-Monthly
+|Project Team
+|Project Leader
+|Microsoft Teams
+
+|Sprint Retrospective
+|Meeting
+|Bi-Monthly
+|Project Team
+|Project Leader
+|TeamBox
+
+|Sprint Review
+|Meeting
+|Bi-Monthly
+|Project Team
+|Project Leader
+|Microsoft Teams
+|===
+
+=== Guidelines for Meetings
+
+Effective meetings are essential for the success of the PubRAMS project as it ensures that all team members and stakeholders are aligned and engaged. The following guidelines are established to maximize the efficiency and productivity of meetings, fostering clear communication and prompt action.
+
+* *Preparation*: Participants must review the agenda and relevant documents before the meeting.
+* *Time Management*: Meetings must start and end on schedule.
+* *Participation*: Encourage all participants to be able to actively participate.
+* *Documentation*: Must be kept track and updated appropriately and shared to all participants.
+* *Follow-up*: Actions items must be clearly defined, assigned, and tracked to completion.
+
+Being able to adhere to these guidelines would ensure that meetings would go as planned and necessary.
+
+=== Communication Standards
+
+To able to uphold professionalism and effectiveness in communication throughout the lifecycle of the PubRAMS project, the following communication standards must be adhered to:
+
+* *Response Times*: Must be able to address any inquiries and/or messages as soon as possible, typically within business hours. Commitment to prompt responsiveness demonstrates respect for stakeholders’ time.
+* *Email Protocol*: Emails must be delivered and communicated while maintaining formal tone, professionalism, and clarity in these interactions.
+* *Language*: Clear, concise, and jargon-free language must be utilized when communicating with stakeholders, especially to non-technical stakeholders. This ensures that information may be easily understood by all recipients, emphasizing inclusivity and minimizing misinterpretation.
+* *Document Formatting*: Consistent formatting must be adhered to for all project documentation. This ensures documents to be easily understood and the information to be presented in a uniform manner.
+
+Adherence to these communication standards would ensure that PubRAMS project would be able to cultivate an environment of professionalism, clarity, and efficiency, thereby promoting successful collaboration and project outcomes.
+
+=== Communication Escalation Process
+
+In the event of communication breakdown or issue urgency within the PubRAMS project, the following structured escalation process will be implemented:
+
+.*Direct Resolution*: Issues are to be resolved by the involved parties. This encourages members to address issues directly within themselves and be able to foster open communication between members.
+. *Escalation to Project Manager*: If issues remain unsolved, it will be escalated to the project manager. The project manager will intervene to facilitate resolution and mitigate any further escalation.
+. *Escalation to Project Sponsor*: If issues remain unsolved even with intervention from project manager, it will be escalated to the project sponsor. The project sponsor, given their authority, will provide guidance or additional resources if necessary to resolve the issue.
+. *Involvement of Higher Management*: If issues remain unsolved even with involvement of project sponsor, higher management or relevant authorities may be included in order to be able to take appropriate measures to address the issues effectively and to further minimize any impact of the issue being addressed.
+
+Adherence to this structured escalation process will address any communication-related issues within the PubRAMS project, resolving conflicts and fostering a collaborative environment.

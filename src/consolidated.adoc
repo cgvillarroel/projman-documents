@@ -21,6 +21,8 @@ include::wbs.adoc[]
 
 include::change.adoc[]
 
+include::communication.adoc[]
+
 include::quality.adoc[]
 
 include::procurement.adoc[]
