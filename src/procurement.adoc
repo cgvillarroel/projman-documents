@@ -1,0 +1,100 @@
+== Procurement Plan
+
+=== Introduction
+
+The Procurement Management Plan outlines the processes, strategies, and responsibilities involved in acquiring the necessary goods, services, and resources to meet the project’s objectives. This plan serves as a comprehensive guide to managing procurement activities, ensuring that they align with the project’s goals, budget constraints, and timelines.
+
+The primary purpose of this Procurement Management Plan is to define the procurement framework that will be used throughout the project lifecycle. It establishes clear guidelines for identifying procurement needs, selecting suppliers, negotiating contracts, and managing supplier relationships. By adhering to this plan, the project team can ensure that procurement activities are conducted in a systematic, transparent, and efficient manner, mitigating risks and optimizing resource utilization.
+
+This plan includes detailed procedures for each stage of the procurement process, from planning and solicitation to contract administration and closure. It also addresses key considerations such as cost determination, quality assurance, compliance with regulatory requirements, and risk management.
+
+=== Procurement Risks
+
+Procurement risk refers to the potential for adverse events or circumstances to impact the process of acquiring goods, services, or resources needed for a project or organization. These risks can arise at various stages of the procurement process, from identifying suppliers to contract negotiation, delivery, and ongoing supplier management. The following listed are considered as procurement risks for this project:
+
+* Unexpected increase in the price of required services and goods for this project may lead to project delays due to budget changes
+* Change in project schedule or scope may present an issue in the procurement process for the project.
+* Poor communication between the project team and the provider of necessary resources may lead to acquisition of incompatible services/products.
+* Non-compliance with laws, regulations, or industry standards, which can result in fines, penalties, or reputational damage
+
+=== Procurement Risk Management
+
+This section describes how procurement risks will be managed to ensure successful project outcomes.
+
+. *Identify the risks*: Identify all potential risks involved in the procurement of resources for the project. Risks identified are the following:
+.. Price Fluctuation
+.. Project timeline changes
+.. Poor communication
+.. Non-compliance with regulatory requirements
+. *Assess the risks*: Rank the risks based on its impact on the project and its likelihood of occurrence.
+. *Risk Mitigation*: The following are the risk mitigation strategies for each procurement risks mentioned previously:
+.. *Price Fluctuation* – explore fixed-price options for services, observe price trends of the services or goods.
+.. *Project timeline changes* – create a procurement plan that aligns with the project timeline.
+.. *Poor communication* – establish clear specifications for services or goods to be procured.
+.. *Non-compliance with regulatory requirements* - ensure contracts are clear, comprehensive, and legally reviewed.
+. *Risk Monitoring*: Continuously monitor procurement risks throughout the project duration. Observe if there are new risks arising over time and assess the current mitigation strategies if they cover every potential risk involved in the project.
+. *Contingency Plan*: Develop a contingency plan on risks that cannot be mitigated in any way. 
+
+=== Cost Determination
+
+This section will describe how costs will be determined and if/how they will be used as part of the selection criteria.
+
+Potential vendors will submit quotes, proposals, or bids in response to an RFP (Request for Proposal). The project team will assess all costs associated with the procurement process, including acquisition, delivery, installation, and maintenance costs. The team will also assess any potential cost overruns and identify ways to mitigate them. Costs are almost always used as part of the procurement decision criteria but may be prioritized differently depending on the organization.
+
+Cost determination is a critical component of procurement management that involves estimating, tracking, and controlling costs associated with acquiring goods, services, or resources. Accurate cost determination ensures that the procurement process remains within the budget and contributes to the overall financial success of the project.
+
+=== Procurement Constraints
+
+This section will describe any constraints which must be considered as part of the project’s procurement management process. 
+
+These constraints may be related to schedule, cost, scope, resources, technology, or buyer/seller relationships, and the following constraints identified must be considered:
+
+. *Schedule constraints*: A project timeline exists for this project, so do time constraints. Procurement activities should be done in a timely manner to ensure that resources necessary for the project are delivered on time and prevent delays in the project timeline.
+. *Budget constraints*: There is a budget set for this project, and it is imperative that the team does not exceed its budget. Procurement of resources must be carefully planned and be conducted in a cost-effective manner. 
+. *Technology constraints*: This project is designed to be integrated with the current systems of the company. Suppliers must have products with the necessary capabilities and specifications required by this project.
+. *Resource constraints*: The procurement process must consider the availability of internal resources, such as personnel, to ensure that procurement activities can be completed efficiently and effectively.
+
+=== Contract Approval Process
+
+This section will define the process through which contracts must be approved. 
+
+The contract approval process is a systematic procedure used by organizations to ensure that contracts are reviewed, evaluated, and authorized by appropriate stakeholders before they are finalized and executed. This process involves multiple stages of scrutiny and validation to ensure that the terms and conditions of the contract align with organizational policies, legal requirements, financial constraints, and strategic objectives.
+
+This process aligns with organizational policies and procedures and includes the following steps:
+
+. *Contract Initiation*: The project manager will initiate the contract approval process by submitting a request to the procurement officer. 
+. *Contract Planning*: The procurement officer will develop a procurement plan that will identify the type of contract to be used, the evaluation criteria, and the timelines for procurement activities.
+. *Contract Development*: Once the procurement plan is approved, the procurement officer will start to draft the contract document with the necessary terms and conditions. 
+. *Contract Review*: The drafted contract will be reviewed by the project adviser and the legal department to ensure complete compliance with all regulatory requirements and laws.
+. *Contract Approval*: The contract documents will be submitted for approval.
+. *Contract Execution*: After obtaining an approval, the contract will be signed by both parties – the vendor and the company – to formalize the agreement. Other stakeholders may be asked to sign the agreement, as well.
+. *Contract Monitoring*: Contract monitoring will be conducted to ensure the vendor’s performance of their contractual obligations is up to standard and follows what was written in the contract. 
+
+The contract approval process will ensure that all contracts are evaluated objectively and that the best value is obtained for the organization. The process will also ensure that contracts are executed in accordance with all applicable laws and regulations.
+
+=== Decision Criteria
+
+For the PubRAMS project, the following decision criteria will be used by the contract review board to ensure the selection of suitable vendors:
+
+* *Technical capability*: The vendor should be able to demonstrate the necessary technical skills required to successfully aid the project. This includes having expertise in projects in similar areas.
+* *Price*: The price of the service/product offered by the vendor should offer a reasonable price that is equal to its quality. The pricing should be reasonable according to market trends and other proposals received.
+* *Schedule*: The vendor must be able to deliver its services/goods within the given project timeline.
+* *Quality*: The vendor must prove that they are able to deliver a high-quality service/product to its customers. This may include, but not limited to, reviews by customers in forums or testimonials from previous clients.
+* *Risk Management*: The vendor must be able to show an understanding of possible risks involved with the services/products they provide their customers. This may include potential risks with the delivery of services/products needed as well as the risks they pose generally for the project.
+* *Sustainability*: The vendor's proposed solution should consider environmental, social, and economic sustainability factors.
+* *Compliance*: The vendor must comply with all legal, regulatory, and contractual requirements, including intellectual property rights, data privacy, and security.
+* *Scalability*: Since the project is a web app system, the vendor is expected to provide a scalable solution for the project to accommodate the project’s changing needs.
+
+The contract review board will evaluate all proposals based on these criteria and select the vendor that best meets the project's needs and objectives.
+
+=== Performance Metrics for Procurement Activities
+
+This section describes the metrics to be used for procurement activities associated with the project.  These metrics may be used to ensure the project stays on schedule regarding procurement activities.  They may also be used to compile data on the performance of various vendors in order to assist with future procurement activities’ vendor selection criteria.
+
+The following listed are performance metrics that will be used by the PubRAMS project to evaluate the procurement activities done in the duration of the project:
+
+* *Cost-effectiveness*: Evaluate whether the budget spent on the procurement of services/products were aligned with the budget plan
+* *Delivery*: Evaluate whether the procured items were delivered according to the project timeline
+* *Customer Support and Maintenance*: Assess the vendor’s dedication to its customers by their responsiveness and ability to provide necessary updates to the project team.
+* *Adaptability*: Evaluate the vendor’s ability to adapt to changes made in the project by assessing their actions when certain schedule changes are made
+* *Vendor Performance*: Overall performance of the vendor for the project which can be assessed by getting feedback from team members, and other performance evaluation methods.

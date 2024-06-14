@@ -23,4 +23,6 @@ include::change.adoc[]
 
 include::quality.adoc[]
 
+include::procurement.adoc[]
+
 include::implementation.adoc[]
