@@ -454,7 +454,12 @@ The hierarchal structure is similar to the outline view but without indentation.
 
 === Tree Structure View
 
+ifdef::backend-docbook5[]
 image:../images/wbs_tree.png[WBS Tree Structure View]
+endif::backend-docbook5[]
+ifndef::backend-docbook5[]
+image:https://raw.githubusercontent.com/cgvillarroel/projman-documents/main/images/wbs_tree.png[WBS Tree Structure View]
+endif::backend-docbook5[]
 
 === WBS Dictionary
 

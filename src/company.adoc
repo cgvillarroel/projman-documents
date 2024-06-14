@@ -9,10 +9,10 @@ s|Company Logo:
 a|
 
 ifdef::backend-docbook5[]
-image::../images/apc_logo.png[]
+image:../images/apc_logo.png[APC Logo]
 endif::backend-docbook5[]
 ifndef::backend-docbook5[]
-image::https://raw.githubusercontent.com/cgvillarroel/projman-documents/main/images/apc_logo.png[]
+image:https://raw.githubusercontent.com/cgvillarroel/projman-documents/main/images/apc_logo.png[APC Logo]
 endif::backend-docbook5[]
 
 s|Address:

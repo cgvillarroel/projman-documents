@@ -23,6 +23,8 @@ include::change.adoc[]
 
 include::communication.adoc[]
 
+include::hr.adoc[]
+
 include::quality.adoc[]
 
 include::procurement.adoc[]

@@ -95,7 +95,12 @@ Listed are the preliminary assumptions for the proposed project:
 
 The project will be broken down into five phases: initiation, planning, execution, control, closeout. Below is the Work Breakdown Structure (WBS) tree view diagram, which serves as an overview.
 
+ifdef::backend-docbook5[]
 image:../images/wbs_tree.png[WBS Tree Structure View]
+endif::backend-docbook5[]
+ifndef::backend-docbook5[]
+image:https://raw.githubusercontent.com/cgvillarroel/projman-documents/main/images/wbs_tree.png[WBS Tree Structure View]
+endif::backend-docbook5[]
 
 === Scope Verification
 
