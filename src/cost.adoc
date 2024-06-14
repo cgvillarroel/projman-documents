@@ -1,0 +1,322 @@
+== Cost Management Plan
+
+=== Introduction
+
+The Cost Management Plan of PubRAMS is to track the cost of the following expenses throughout the months of making the project. The costing sets the format and standards by which the project costs are measured, reported, and controlled.
+
+==== Cost Management Responsibilities
+
+The Project Manager oversees overall cost management and is the main contact for cost-related concerns.
+
+The Finance Team is responsible for ensuring that the approved budget is monitored and aligned with the project.
+
+
+==== Cost Change Approval:
+
+* The Project Manager must approve all cost changes before implementation.
+* In case of cost changes or exceeding the budget, consultation with the project sponsor is necessary before any implementation or modification.
+
+==== Cost Measurement and Reporting:
+
+* The Cost Performance Index (CPI) and schedule performance index (SPI) will be utilized for monthly measurement and reporting of costs.
+* Monthly reports are to be sent to the project sponsor
+
+==== Budget Format and Standards:
+
+* The budget will be displayed coherently, using an excel spreadsheet format to ensure budget clarity.
+* The budget will be divided into rows, and each item will have a detailed cost estimate assigned to it.
+* The budgets will undergo monthly updates if any costing modifications.
+* Documentation of the budgets will be conducted in case of any changes or changes in the costing.
+
+=== Cost Management Approach
+
+This section explains the cost management approach of the PubRAMS project:
+
+* *Clear definition of costs*: The team in charge of the project will collaborate extensively with stakeholders to precisely determine and record all the expenses related to the project, such as wages, supplies, machinery, and other costs.
+* *Budget development and tracking*: A comprehensive budget for the project will be created and consistently revised during the project's duration, with expenses being monitored and communicated.
+* *Cost variance analysis*: The project team will monitor the expenses during the project and analyze any discrepancies to identify and rectify any instances of excessive spending or cost savings.
+* *Cost estimates*: To ensure that the project budget is precise and practical, the project team will apply various cost estimation methods.
+* *Reporting and communication:*- Reports on expenses will be generated and distributed to stakeholders, including the project sponsor, project team, and management.
+* *Cost management roles and responsibilities*: Roles and responsibilities for managing expenses will be established and communicated to the members of the project team.
+* *Approval process for changes:*- A process that needs approval to implement changes.
+
+By applying these practices, the project team will control costs and ensure that the project remains on track with the assigned budget.
+
+=== Measuring Project Costs
+
+The Cost Management Plan for the PubRAMS project will include a detailed approach for measuring project costs using Earned Value Management (EVM). This will involve capturing and reporting on various Earned Value metrics, such as:
+
+* *Budgeted Cost of Work Scheduled (BCWS) or Planned Value (PV)*- These measures the budgeted costs of the work that was planned to be completed at a specific point in time.
+* *Budgeted Cost of Work Performed (BCWP) or Earned Value (EV)*- These measure the budgeted costs of the work that has been completed at a specific point in time.
+* *Actual Cost of Work Performed (ACWP) or Actual Cost (AC)*- These measures the actual costs incurred for the work that has been completed at a specific point in time.
+
+These metrics will be used to perform cost variance analysis (CV), schedule performance index (SPI), and cost performance index (CPI) to measure the project's cost performance over time.
+
+To help capture these metrics, the project team will use project management software capable of tracking and reporting on EVM metrics. This software will also be used to forecast future project costs, and to review cost performance over time, across work packages or schedule activities.
+
+*Cost Variance (CV)* measures the difference between the actual cost and the planned cost of the project. It is calculated by subtracting the actual cost from the planned cost. A negative CV indicates the project is over budget, while a positive CV indicates it.
+
+The *Schedule Performance Index (SPI)* measures the project's schedule performance by comparing the planned schedule to the actual schedule. This index is calculated as the ratio of the BCWP to the BCWS. It is calculated by dividing the earned value by the planned value. A value of 1 indicates that the project is on schedule, while a value less than 1 indicates that the project is behind schedule, and a value greater than 1 indicates that the project is ahead of schedule.
+
+The *Cost Performance Index (CPI)* measures the project's cost performance by comparing the actual cost to the planned cost. This index is calculated as the ratio of the BCWP to the ACWP. It is calculated by dividing the value earned by the actual cost. A value of 1 indicates that the project is on budget, while a value less than 1 indicates that the project is over budget, and a value greater than 1 indicates that the project is under budget.
+
+In summary, the Cost Management Plan will ensure that the project costs are effectively managed and controlled throughout the project’s lifecycle by using Earned Value Management metrics, schedule performance index, and cost performance index.
+
+These metrics will help the team to identify the areas where the project is underperforming and take corrective actions to bring the project in the right direction.
+
+=== Reporting Format
+
+To present the cost management plan for the PubRAMS Project, a spreadsheet or table would be the recommended reporting format. This format will cover all pertinent cost information, including the project budget, actual costs incurred, projected costs, and any variances or discrepancies that may occur.
+
+The reporting format for the cost management plan of the PubRAMS Project would include the following elements:
+
+* *Executive Summary*: An overview of the cost management plan, including the project's budget, any significant cost differences, and the actions taken to address them.
+* *Budget Overview*: A detailed breakdown of the project's budget, showing the total project cost, costs for each phase or deliverable, and expenses related to various project resources (e.g., labor, materials, equipment).
+* *Cost Variance Analysis*: A thorough analysis of variations between the actual costs incurred and the budgeted costs. This analysis explains the reasons behind the differences, their impact on the project, and the steps taken to resolve them.
+* *Budget Forecast*: An estimate of future project costs, considering potential variations and their potential effects on the overall project.
+* *Cost Management Metrics*: Key indicators measuring the project's cost performance, such as cost variance, cost performance index (CPI), and schedule performance index (SPI).
+* *Approval and Sign-off*: A section for the project manager and key stakeholders to review, approve, and officially sign off on the cost management plan.
+* *Appendices*: Additional supporting documents, such as detailed cost breakdowns, invoices, or change request forms, are included for reference.
+
+=== Cost Variance Response Process
+
+The Cost Variance Response process for the PubRAMS project will be as follows:
+
+. *Identification of Variance*
+** The project manager is responsible for detecting and reporting any variations in cost to the project sponsor.
+** The project manager will employ earned value metrics and other cost management tools to identify and monitor discrepancies.
+. *Analysis of Variance*
+** The Project Manager will analyze the variance to identify the root cause and develop corrective actions options.
+** The Project Manager will also assess the impact of the variance on the project schedules and scope.
+. *Presentation of Options*
+** The Project Manager will provide the Project Sponsor with wide options for corrective action.
+** The options will be based on the root cause of the variance and the impact on the project schedule and scope.
+. *Approval of Corrective Action*
+** The Project Sponsor will review the options and approve an appropriate action to bring the project back on budget.
+** This may include increasing the budget, reducing scope or quality, or implementing other corrective actions.
+. *Implementation of Corrective Action*
+** The Project Manager will implement the approved corrective action and monitor the results.
+** The Project Manager will also update the project schedule and budget accordingly.
+. *Reporting*
+** In the Monthly Project Status Report, the Project Manager will incorporate information about the cost variance, specifics regarding the corrective actions implemented, and the outcomes achieved.
+** The Project Manager will consistently provide updates on the project's budget and schedule.
+
+Throughout the project lifecycle, the Cost Variance Response process will remain active. The Project Manager will oversee monitoring and control of project costs, while the Project Sponsor will grant approval for any required corrective actions.
+
+=== Cost Change Control Process
+
+The cost change control process will include the following steps:
+
+. *Identifying cost changes* The Project Manager will recognize and document any proposed adjustments to the project budget or expenses using a designated form for cost change requests.
+. *Analyzing cost changes* The project team will carefully examine the suggested modifications to assess how they might impact on the project schedule, resources, and overall budget.
+. *Approval of the cost change* The cost change request will be reviewed and approved by the project sponsor and other relevant stakeholders.
+. *Implementing cost changes* Once approved, the Project Manager will ensure the smooth execution of the cost changes according to the project schedule and budget.
+. *Tracking and monitoring cost changes* The project team will actively monitor and track the effects of the cost changes on the project schedule and budget, making necessary adjustments to keep the project on the right track.
+. *Reporting on cost changes* The Project Manager will include information about the cost changes, along with relevant financial details and any corrective actions taken, in the regular project status reports.
+
+The cost change control process will be implemented to ensure that any changes to the project budget or expenses are identified, carefully analyzed, and approved promptly.
+
+By implementing this process, the project team aims to minimize the impact of cost changes on the project schedule and budget. Also, it helps to keep the project on track and aligned with its objectives.
+
+=== Project Budget
+
+Budgeting is a crucial component of project management that involves planning, estimating, and controlling project costs. For the PubRAMS project, a budget has been developed to ensure that project costs are identified, monitored, and controlled throughout the project's life cycle.
+
+The budget includes direct and indirect costs, and it is designed to provide the project team and stakeholders with a comprehensive understanding of the financial resources required to successfully complete the project. This budget will serve as a baseline for monitoring the project's financial performance and ensuring that it remains on track to meet its goals and objectives within the approved budget.
+
+Direct Costs::
+** Software Cost (MS Azure and MS 365 Business Standard): PHP 90,293.18 (6 Months)
+** Workforce Cost: PHP 743,452.80 (6 Months)
+** Contingency Cost: PHP 40,500 (for 6 months)
+** Total Project Cost: PHP 833,746 (for 6 months)
+
+[%header,cols=5*]
+|===
+5+|PubRAMS
+
+2+s|Budget: PHP 833,746
+3+s|Project Duration: 6 Months
+
+5+h|Project Cost Management
+
+5+h|Workforce Cost Estimate
+
+h|Roles
+h|Average Salary (Monthly)
+h|Total Salary
+h|Headcount
+h|Total Cost (6 Months)
+
+|Team Lead
+|PHP 56461
+|PHP 225,840.00
+|1
+|PHP 225,840.00
+
+|Frontend developer
+|PHP 51456
+|PHP 205,824.00
+|1
+|PHP 205,824.00
+
+|UI/UX designer
+|PHP 41310
+|PHP 165,244.80
+|1
+|PHP 165,244.80
+
+|QA Tester
+|PHP 36637
+|PHP 73,272.00
+|2
+|PHP 146,544
+
+|TOTAL
+4+s|PHP 743,452.80
+
+5+|Software Cost
+
+|Microsoft Azure
+|PHP 2,874.03
+|
+|
+|PHP 17,244.18
+
+|Microsoft 365 Business Standard
+|PHP 12,174.83
+|
+|
+|PHP 73,049.00
+
+|TOTAL
+4+s|PHP 90,293.18
+
+5+h|CONTINGENCY COST
+
+|Emergency
+|PHP 6,750
+|
+|
+|PHP 40,500
+|===
+
+[%header,cols=3*]
+===
+|WBS ID
+|WBS NAME
+|LABOR COST
+
+|2.1.1
+|Business Case
+|PHP 2,823.00
+
+|2.1.2
+|Stakeholder Management Strategy
+|PHP 1,721.30
+
+|2.1.3
+|Stakeholder Analysis
+|PHP 1,882.00
+
+|2.1.4
+|Project Charter
+|PHP 3,430.40
+
+|2.1.5
+|Scope Management Plan
+|PHP 2,352.50
+
+|2.1.6
+|Cost Management Plan
+|PHP 2,442.40
+
+|2.1.7
+|Time Management Plan
+|PHP 2,442.40
+
+|2.1.8
+|Work Breakdown Structure
+|PHP 3,430.40
+
+|2.1.9
+|Human Resource Management Plan
+|PHP 1,221.20
+
+|2.1.10
+|Change Management Plan
+|PHP 1,882.00
+
+|2.1.11
+|Communication Management Plan
+|PHP 3,663.60
+
+|2.1.12
+|Quality Management Plan
+|PHP 3,663.60
+
+|2.1.13
+|Risk Management Plan
+|PHP 1,721.30
+
+|2.1.14
+|Procurement Management Plan
+|PHP 1,715.20
+
+|3.4.3
+|Host in Microsoft Azure
+|PHP 7,194.40
+
+|3.4.2
+|Upload bibliography to Koha
+|PHP 7,102.00
+
+|3.4.1
+|Download reports
+|PHP 13,184.60
+
+|3.3.2
+|File uploading and management
+|PHP 15,012.90
+
+|3.3.1
+|Status check
+|PHP 19,066.90
+
+|3.2.3
+|EC Head assign paper to proofreader
+|PHP 6,206.95
+
+|3.2.2
+|Status check
+|PHP 5,951.30
+
+|3.1.3
+|Submit project
+|PHP 13,792.75
+
+|3.1.2
+|Assigning user roles
+|PHP 7,086.02
+
+|3.1.1
+|MS Entra ID Login
+|PHP 8,192.00
+
+|3.1.4.2
+|Instructor to XD
+|PHP 7,439.90
+
+|3.2.1.1
+|Create groups
+|PHP 8,306.80
+
+|3.2.1.2
+|Edit groups
+|PHP 10,189.01
+
+|3.2.1.3
+|Delete groups
+|PHP 3,053.35
+
+3+s|TOTAL   PHP 201,881.93
+===

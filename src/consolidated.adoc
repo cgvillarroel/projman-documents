@@ -19,6 +19,8 @@ include::scope.adoc[]
 
 include::wbs.adoc[]
 
+include::cost.adoc[]
+
 include::change.adoc[]
 
 include::communication.adoc[]
