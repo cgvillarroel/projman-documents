@@ -21,11 +21,13 @@ include::wbs.adoc[]
 
 include::cost.adoc[]
 
+include::time.adoc[]
+
 include::change.adoc[]
 
-include::communication.adoc[]
-
 include::hr.adoc[]
+
+include::communication.adoc[]
 
 include::quality.adoc[]
 

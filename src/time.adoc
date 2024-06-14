@@ -1,0 +1,102 @@
+== Schedule Management Plan
+
+=== Introduction
+ 
+The project schedule serves as a crucial roadmap for executing the project, providing the project team, sponsor, and stakeholders with a clear picture of the project's status at any given time. An effective schedule is essential for tracking progress and ensuring that the project stays on track.
+The Schedule Management Plan outlines the approach the project team will use to develop, monitor, and manage the project schedule. This plan includes the methodologies and tools for creating the schedule and the processes for monitoring progress and handling changes.
+ 
+=== Schedule Management Approach
+
+Project schedules will be created using Open Project, starting with the deliverables identified in the project’s Work Breakdown Structure (WBS). The process will include several key steps:
+
+* *Activity Definition*: Identifying the specific work packages required to complete each delivery.
+* *Activity Sequencing*: Determining the order of work packages and establishing relationships between project activities.
+* *Activity Duration Estimation*: Calculating the number of work periods needed to complete each work package.
+* *Resource Estimation*: Assigning resources to work packages to complete the schedule development.
+
+After developing a preliminary schedule, it will be reviewed by the project team and any resources tentatively assigned to project tasks. The project team and resources must agree on the proposed work package assignments, durations, and overall schedule. Once consensus is reached, the project sponsor will review and approve the schedule, which will then be baselined. 
+
+=== Schedule Control
+
+Once a preliminary schedule has been developed, it will undergo a review by the project team and any resources tentatively assigned to project tasks. The project team and resources must agree on the proposed work package assignments, durations, and overall schedule. Upon reaching this consensus, the project sponsor will review and approve the schedule, after which it will be baselined.
+
+==== Designated Milestones for the Project Schedule:
+
+* Completion of scope statement and WBS/WBS Dictionary
+* Baselined project schedule
+* Approval of final project budget
+* Project kick-off
+* Approval of roles and responsibilities
+* Requirements definition approval
+* Completion of data mapping/inventory
+* Project implementation
+* Acceptance of final deliverables
+
+==== Roles and Responsibilities for Schedule Development:
+
+* *Project Manager*:
+** Facilitate work package definition, sequencing, and estimation of duration and resources with the project team.
+** Create the project schedule using Open Project.
+** Validate the schedule with the project team, stakeholders, and project sponsor.
+** Obtain schedule approval from the project sponsor and baseline the schedule.
+* *Project Team*:
+** Participate in work package definition, sequencing, and estimation of duration and resources.
+** Review and validate the proposed schedule.
+** Perform assigned activities once the schedule is approved.
+* *Project Sponsor*:
+** Participate in reviews of the proposed schedule.
+** Approve the final schedule before it is baselined.
+* *Project Stakeholders*:
+** Participate in reviews of the proposed schedule.
+** Assist in the validation of the schedule.
+
+=== Schedule Changes and Thresholds
+
+If any member of the project team identifies a need to change the schedule, the project manager and team will convene to review and evaluate the proposed change. This process involves determining the impacted tasks, the variance caused by the potential change, and exploring any alternatives or variance resolution activities. The goal is to assess how these changes would affect the scope, schedule, and resources.
+
+*Evaluation and Decision-Making*:
+
+* The project manager and team will identify tasks impacted by the proposed change.
+* They will analyze the variance resulting from the change and explore alternatives or variance resolution activities.
+* The potential impact on scope, schedule, and resources will be evaluated.
+
+*Thresholds for Schedule Change Requests*:
+
+* A schedule change request must be submitted to the project sponsor for approval if either of the following conditions is met:
+* The proposed change is estimated to reduce or increase the duration of an individual work package by 10% or more.
+* The proposed change is estimated to reduce or increase the duration of the overall baseline schedule by 10% or more.
+
+*Minor Change Requests*:
+
+* Change requests that do not meet these thresholds may be submitted to the project manager for approval.
+
+*Post-Approval Actions*:
+
+* Once a change request has been reviewed and approved, the project manager is responsible for adjusting the schedule accordingly.
+* The project manager will communicate all changes and their impacts to the project team, project sponsor, and stakeholders.
+* The project manager must ensure all change requests are archived in the project records repository.
+
+By following this process, the project team ensures that schedule changes are carefully evaluated and appropriately managed, maintaining control over the project timeline and ensuring alignment with project objectives.
+
+=== Scope Change
+
+Any changes in the project scope, approved by the project sponsor, will require the project team to evaluate the scope change's effect on the current schedule. If the project manager determines that the scope change will significantly affect the current project schedule, he/she may request that the schedule be re-baselined in consideration of any changes which need to be made as part of the new project scope. The project sponsor must review and approve this request before the schedule can be re-baselined.
+
+The process will include the following steps:
+
+. *Identification of the Scope Change*:
+** The project team identifies any new deliverables or requirements that need to be added to the project.
+. *Impact Assessment*:
+** The project team assesses the impact of the scope change on the project schedule and resources.
+** This evaluation includes determining the extra time and resources required to complete the new deliverables or requirements, and any potential project schedule delays.
+. *Schedule and Resource Analysis*:
+** The project team analyzes the status of the project schedule and resources to determine how the scope change will affect the project moving forward.
+. *Approval Process*:
+** The scope change is reviewed and approved by the project sponsor and key stakeholders.
+** The project sponsor makes the final decision on whether to proceed with the scope change.
+. *Implementation*:
+** Once the scope change is approved, the project team integrates the new deliverables or requirements into the project schedule and resource plan.
+. *Monitoring and Control*:
+** The project team monitors the scope change's progress and makes any necessary adjustments to the project schedule and resources to ensure that the project remains on track. 
+. *Closeout*:
+** The scope change is closed out once all new deliverables or requirements have been completed and the project schedule and resources have been updated accordingly.
