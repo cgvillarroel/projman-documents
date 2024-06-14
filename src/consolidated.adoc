@@ -27,6 +27,8 @@ include::hr.adoc[]
 
 include::quality.adoc[]
 
+include::risk.adoc[]
+
 include::procurement.adoc[]
 
 include::implementation.adoc[]

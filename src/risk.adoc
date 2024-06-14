@@ -1,0 +1,150 @@
+== Risk Management Plan
+
+=== Introduction
+
+To ensure the successful delivery of PubRAMS, a comprehensive risk management plan will be implemented. This plan will outline the team's approach to identifying, evaluating, and mitigating potential risks throughout the development process. Additionally, the plan will specifically address the project's top three identified risks, detailing strategies to minimize their impact. Through proactive risk management, the PubRAMS team will be well-equipped to navigate potential challenges and ensure project success.
+
+=== Top Three Risks
+
+The top three risks that were identified for PubRAMS are:
+
+. *Security Concerns* - PubRAMS takes data security seriously. A major risk for web applications is a security breach, where attackers gain unauthorized access to user information. This can happen through vulnerabilities in the application itself or by tricking users into giving away sensitive data.
+. *Technical Concerns* - Web applications can face technical hurdles like bugs, compatibility issues, and performance slowdowns. These can lead to downtime or a frustrating user experience.
+. *Time constraints* - The potential conflict between tight deadlines and maintaining high-quality standards. Rushing through development may lead PubRAMS to be unreliable, limited in functionality, and more difficult to maintain in the long run.
+
+=== Risk Management Approach
+
+The following are the risk management strategies that the team will implement for the associated risks:
+
+. *Risk Identification* -To identify potential risks during the development of PubRAMS, the team will analyze project requirements, objectives, and scope. This approach enables the team to pinpoint risks associated with the development process effectively.
+. *Risk Analysis* - After identifying potential risks, the team will analyze each risk based on its potential impact on the project. Severity and priority will be assigned to each identified risk using a risk matrix to ensure comprehensive evaluation.
+. *Risk Mitigation* - After identifying and analyzing the risks, the team will develop a risk mitigation plan, which includes strategies to reduce or eliminate these risks. These strategies may involve implementing backup systems, creating contingency plans, and enhancing security measures, among other actions.
+. *Risk Monitoring* - To finalize the risk management process, the team will continuously monitor and manage risks throughout the development phase. This includes regular review and updates of the risk management plan to address any emerging risks promptly and effectively.
+
+=== Risk Identification
+
+Risk identification is a crucial and foundational step in the risk management process.
+
+. *Program Security* - The lead programmer tests PubRAMS to identify any errors and potential problems, ensuring prompt solutions and avoiding delays.
+. *Resource Risks* - There is a risk that the project may face resource constraints, potentially leading to work stoppages, budget adjustments, or other delays.
+. *Human Error* - Factors such as lack of training, distractions, or misunderstandings can contribute to human errors, potentially causing delays in the project.
+. *Unpredictable Risks* - The project team acknowledges the possibility of unpredictable risks such as natural disasters, power outages, and internet disruptions that could impact the project.
+
+=== Risk Qualification and Prioritization
+
+[%header,cols=5*]
+|===
+|Risk ID
+|Risk Description
+|Likelihood
+|Impact
+|Justification
+
+|1
+|Program Security
+|High
+|High
+|The project is highly vulnerable to security breaches like malware, identity theft, or data loss due to sensitive information. These risks could disrupt processes and cause severe damage to clients and residents.
+
+|2
+|Resource Risks
+|Low
+|High
+|While the probability of facing a shortage of relevant resources and materials is low, it can moderately impact project completion and quality. Mitigation strategies should emphasize proactive resource planning.
+
+|3
+|Human Error
+|Medium
+|Medium
+|Human error is moderately likely during project execution. While it can impact project outcomes, its severity is lower compared to risks like scope creep or security vulnerabilities.
+
+|4
+|Unpredictable Risks
+|Medium
+|Medium
+|Unpredictable risks such as power shortages, internet interruptions, and natural disasters have a low to medium probability of occurring. Although rare, their impact on the project can range from work disruptions to a complete halt in progress, which is considered to have a medium to high impact.
+|===
+
+=== Risk Monitoring
+
+The Risk Monitoring approach ensures active management of risks throughout the project lifecycle. Continuous monitoring is crucial, along with comprehensive documentation to identify risk conditions effectively.
+
+According to the plan, the project team will integrate prioritizing risks into the project schedule. This enables the project team to specify when risks require immediate attention. Additionally, the project leader will ensure that the project team is aware of identified risks and their potential impact on the project.
+
+During team meetings, discussions will include updates on the status of identified risks, such as new risks discovered and the effectiveness of mitigation plans. Any required adjustments to the risk management plan will be collaboratively made with the project team.
+
+In summary, SemiByte will embrace an agile risk management methodology, emphasizing continuous improvement and adaptability. The risk management plan's effectiveness will be regularly assessed and adjusted as necessary to ensure the project achieves its objectives while upholding desired quality standards.
+
+=== Risk Mitigation and Avoidance
+
+To effectively mitigate and prevent potential risks in PubRAMS, the project team will craft a risk management plan that prioritizes each identified risk. Strategies will include developing backup plans, allocating extra resources, or adjusting project timelines to address likely delays.
+
+The project manager will employ the following key considerations and options for risk mitigation and avoidance:
+
+. *Resource Management* - Ensure the project team has the necessary skills, expertise, tools, and equipment to complete the project within budget and timeline constraints.
+. *Risk Assessment* - Conduct a thorough risk assessment early in the project to identify and analyze potential risks. Take prompt actions to address and mitigate these risks.\
+. *Backup Planning* - Develop backup plans and contingencies to prepare for potential risks. Oversee the development, testing, and confirmation of contingency plans for each identified risk.
+. *Communication* - Foster clear and open communication channels to minimize risks and prevent misunderstandings among the project team, sponsor, and stakeholders.
+. *Agile Approach* - Adopt Agile methodology to enable ongoing risk management, flexibility, and responsiveness to changes. Ensure adherence to Agile principles throughout the project.
+. *Capacity Management* - Ensuring that resources are allocated according to their capacity and capability to contribute to project success.
+
+=== Risk Register
+
+The team will keep a risk register documenting all identified risks, including their classification, probability, impact, and mitigation strategies. This register will be updated regularly throughout the development process to account for any changes in risk factors or the risk management approach. Serving as a vital reference, the risk register will help the project team effectively monitor and manage risks. Key criteria for maintaining the risk register include thorough identification, ongoing updates, and accessibility to stakeholders.
+
+* *Risk ID* - unique identifier assigned to each identified risk within a project or system.
+* *Risk Rank* - a system or method used to prioritize risks based on their likelihood and impact within a project or system.
+* *Description* - a concise summary outlining the nature of a risk and its potential consequences within a project or system.
+* *Category* - specific aspect or domain of the project to which a risk pertains.
+* *Destination/Owner* - the individual or team within the project organization responsible for managing and mitigating a specific risk.
+* *Probability* - likelihood or chance that a specific risk event will occur during the project lifecycle
+* *Impact* - potential effect or consequence that a specific risk event could have on the project objectives or deliverables.
+* *Status* - refers to its current state or condition within the risk management process.
+
+[%header,cols=8*]
+|===
+|Risk ID
+|Risk Rank
+|Description
+|Category
+|Destination/ Owner
+|Probability
+|Impact
+|Status
+
+|01
+|High
+|Team unable to meet project deadlines
+|Technical
+|Project Manager
+|High
+|High
+|In progress
+
+|02
+|High
+|Insufficient resources
+|Resources
+|Project Manager
+|Medium
+|High
+|In progress
+
+|03
+|Medium
+|Unexpected circumstances or occurrences such as power outages, natural catastrophes, etc.
+|
+|Project Manager
+|Medium
+|Medium
+|
+
+|04
+|
+|Potential security threats or vulnerabilities
+|Security
+|Project Manager
+|Medium
+|High
+|
+|===
