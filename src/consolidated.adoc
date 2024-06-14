@@ -17,6 +17,8 @@ include::stakeholder.adoc[]
 
 include::scope.adoc[]
 
+include::wbs.adoc[]
+
 include::change.adoc[]
 
 include::quality.adoc[]

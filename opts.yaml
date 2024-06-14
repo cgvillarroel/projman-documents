@@ -31,6 +31,16 @@ variables:
     \fancyfoot[R]{\thepage}
     \renewcommand{\headrulewidth}{0em}
     }
+    \usepackage{enumitem}
+    \setlistdepth{5}
+    \setlist[itemize]{noitemsep}
+    \setlist[enumerate]{noitemsep}
+    \setlist[itemize,1]{label=\textbullet}
+    \setlist[itemize,2]{label=\textbullet}
+    \setlist[itemize,3]{label=\textbullet}
+    \setlist[itemize,4]{label=\textbullet}
+    \setlist[itemize,5]{label=\textbullet}
+    \renewlist{itemize}{itemize}{5}
   include-before: |
     \pagestyle{plain}
     \clearpage
