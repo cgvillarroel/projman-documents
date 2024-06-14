@@ -201,7 +201,7 @@ h|Total Cost (6 Months)
 |===
 
 [%header,cols=3*]
-===
+|===
 |WBS ID
 |WBS NAME
 |LABOR COST
@@ -319,4 +319,4 @@ h|Total Cost (6 Months)
 |PHP 3,053.35
 
 3+s|TOTAL   PHP 201,881.93
-===
+|===
