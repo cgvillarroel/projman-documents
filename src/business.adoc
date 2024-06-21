@@ -134,15 +134,14 @@ Listed are the preliminary constraints for the proposed project:
 |08/14/2023-11/14/2023
 
 |Project Implementation and Testing
-|01/10/2024-03/05/2024
+|11/28/2023-10/18/2024
 
 |Project Deployment
-|05/31/2024
+|10/18/2024-11/22/2024
 
 s|Project Complete
-s|06/27/2024
+s|11/22/2024
 |===
-
 
 === Strategic Alignment
 
