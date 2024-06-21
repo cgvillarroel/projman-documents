@@ -170,10 +170,10 @@ Listed are the expected costs for the implementation of the project:
 |===
 4+^|Summary Budget – Estimated Software Costs
 
-^|Software
-^|Monthly Cost
-^|Number of Units
-^|Estimated Costs
+h|Software
+h|Monthly Cost
+h|Number of Units
+h|Estimated Costs
 
 |Microsoft Azure 1 Core, 1.75 GB RAM, 70GB temporary storage; Single Database, vCore, Serverless, 1 Billed vCores, RA-GRS Backup Storage Redundancy, 0 GB Point-In-Time Restore)
 |PHP 5748.06
