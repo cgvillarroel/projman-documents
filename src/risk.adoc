@@ -132,19 +132,28 @@ The team will keep a risk register documenting all identified risks, including t
 
 |03
 |Medium
-|Unexpected circumstances or occurrences such as power outages, natural catastrophes, etc.
+|Unexpected cloud service provide issues, such as service outages and plan/price changes
 |
 |Project Manager
 |Medium
 |Medium
-|
+|In progress
 
 |04
-|
+|High
 |Potential security threats or vulnerabilities
 |Security
 |Project Manager
 |Medium
 |High
-|
+|In progress
+
+|05
+|High
+|Potential security threats or vulnerabilities
+|Security
+|Project Manager
+|Medium
+|High
+|In progress
 |===

@@ -42,9 +42,19 @@ SemiByte will ensure effective implementation of the Human Resource Plan by clea
 |The Project Team is accountable for creating project deliverables and collaborating with other team members to ensure project success. This involves comprehending and following the project's scope, identifying any risks or issues related to scope, and effectively communicating these matters to the Project Manager and Project Leader.
 |The competency of a project team encompasses a blend of technical skills, problem-solving abilities, and effective communication necessary for successful project execution.
 
-|Developers
+|Backend Developer (Chase Villarroel)
 |Authority to identify and address technical issues, bugs, and challenges that arise during the development process.
 |Work with business analysts, designers, and testers to ensure effective coordination and successful delivery of project tasks.
+|Proficiency in relevant programming languages, software development expertise, and strong problem-solving skills.
+
+|Frontend Developer (James Alfafara, Aliyah Kirstie Lopez)
+|Possesses authority over its technical aspects and provides guidance on feasibility and implementation strategy.
+|Responsible for providing leadership and guidance to the back-end developer, maintaining open communication with the Project Manager and back-end developer, and ensuring adherence to project deadlines.
+|Proficiency in relevant programming languages, software development expertise, and strong problem-solving skills.
+
+|UI/UX Designer (James Alfafara)
+|Leads in creating intuitive interfaces that meet user and business goals, ensuring usability and consistency.
+|Responsible for designing intuitive and visually appealing interfaces for digital products that align with user needs and business objectives.
 |Proficiency in relevant programming languages, software development expertise, and strong problem-solving skills.
 
 |Quality Assurance
@@ -100,10 +110,22 @@ The project's Human Resource and Staffing plan may undergo changes to accommodat
 |Evaluate each team member's contributions based on their adherence to deadlines, quality of work, teamwork skills, and ability to meet project objectives.
 |The project leader or manager will institute a system for recognition and rewards to motivate team members and foster high performance.
 
-|Developers
+|Backend Developer
 |Work with business analysts, designers, and testers to ensure effective coordination and successful delivery of project tasks.
 |Proficiency in Programming Languages, Problem-Solving Skills, Effective Communication, Teamwork, Time Management, Analytical Thinking
 |Reviews will encompass comprehensive code testing, progress assessment against timelines and documentation, and review of any revisions made since the last review cycle.
+|The project leader or manager will institute a system for recognition and rewards to motivate team members and foster high performance.
+
+|Frontend Developer
+|Responsible for providing leadership and guidance to the back-end developer, maintaining open communication with the Project Manager and back-end developer, and ensuring adherence to project deadlines.
+|Proficiency in Programming Languages, Problem-Solving Skills, Effective Communication, Teamwork, Time Management, Analytical Thinking
+|Reviews will encompass comprehensive code testing, progress assessment against timelines and documentation, and review of any revisions made since the last review cycle.
+|The project leader or manager will institute a system for recognition and rewards to motivate team members and foster high performance.
+
+|UI/UX Designer
+|Responsible for designing intuitive and visually appealing interfaces for digital products that align with user needs and business objectives.
+|Proficiency in Programming Languages, Problem-Solving Skills, Effective Communication, Teamwork, Time Management, Analytical Thinking
+|Reviews will encompass progress assessment against timelines and documentation, and review of any revisions made since the last review cycle.
 |The project leader or manager will institute a system for recognition and rewards to motivate team members and foster high performance.
 
 |Quality Assurance
