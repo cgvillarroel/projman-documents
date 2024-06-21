@@ -150,8 +150,8 @@ The team will keep a risk register documenting all identified risks, including t
 
 |05
 |High
-|Potential security threats or vulnerabilities
-|Security
+|Users dislike the new system
+|Stakeholder, Deployment
 |Project Manager
 |Medium
 |High
