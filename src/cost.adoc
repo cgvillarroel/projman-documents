@@ -122,7 +122,7 @@ By implementing this process, the project team aims to minimize the impact of co
 
 Budgeting is a crucial component of project management that involves planning, estimating, and controlling project costs. For the PubRAMS project, a budget has been developed to ensure that project costs are identified, monitored, and controlled throughout the project's life cycle.
 
-The budget includes direct and indirect costs, and it is designed to provide the project team and stakeholders with a comprehensive understanding of the financial resources required to successfully complete the project. This budget will serve as a baseline for monitoring the project's financial performance and ensuring that it remains on track to meet its goals and objectives within the approved budget.
+The budget includes the estimated and actual costs of resources required in this project, which is designed to provide the project team and stakeholders with a comprehensive understanding of the financial resources required to successfully complete the project. This budget will serve as a baseline for monitoring the project's financial performance and ensuring that it remains on track to meet its goals and objectives within the approved budget.
 
 Direct Costs::
 ** Software Cost (MS Azure and MS 365 Business Standard): PHP 90,293.18 (6 Months)
@@ -130,75 +130,107 @@ Direct Costs::
 ** Contingency Cost: PHP 40,500 (for 6 months)
 ** Total Project Cost: PHP 833,746 (for 6 months)
 
-[%header,cols=5*]
+[%header,cols=6*]
 |===
-5+|PubRAMS
+6+^|PubRAMS
 
 2+s|Budget: PHP 833,746
-3+s|Project Duration: 6 Months
+4+s|Project Duration: 6 months
 
-5+h|Project Cost Management
-
-5+h|Workforce Cost Estimate
+6+^h|Project Cost Management
 
 h|Roles
-h|Average Salary (Monthly)
-h|Total Salary
+h|Hourly Rate
 h|Headcount
-h|Total Cost (6 Months)
+h|Months Rendered
+h|Estimated Cost
+h|Actual Cost
 
-|Team Lead
-|PHP 56461
-|PHP 225,840.00
+s|Team Lead (also Backend developer)
+|PHP 235.25
 |1
-|PHP 225,840.00
+|6 months
+|PHP 225,840
+|PHP 96,687.75
 
-|Frontend developer
-|PHP 51456
-|PHP 205,824.00
+s|Frontend developer
+|PHP 214.40
 |1
-|PHP 205,824.00
+|6 months
+|PHP 205,824
+|PHP 52,099.20
 
-|UI/UX designer
-|PHP 41310
+s|UI/UX designer
+|PHP 172.13
+|1
+|6 months
 |PHP 165,244.80
-|1
-|PHP 165,244.80
+|PHP 29,434.23
 
-|QA Tester
-|PHP 36637
-|PHP 73,272.00
+s|QA Tester
+|PHP 152.65
 |2
+|3 months
 |PHP 146,544
+|PHP 9,006.35; PHP 14,654.40
 
-|TOTAL
-4+s|PHP 743,452.80
-
-5+|Software Cost
-
-|Microsoft Azure
-|PHP 2,874.03
+s|TOTAL
 |
+|
+|
+|PHP 743,452.80
+|PHP 201,881.93
+
+6+^h|Software Cost
+
+^h|Software
+^h|Monthly cost
+^h|Number of Units
+^h|Months used
+^h|
+^h|Actual Cost
+
+s|Microsoft Azure
+|PHP 5748.06
+|1
+|3
 |
 |PHP 17,244.18
 
-|Microsoft 365 Business Standard
-|PHP 12,174.83
-|
+s|Microsoft 365 Business Standard
+|PHP 730.49
+|100
+|1
 |
 |PHP 73,049.00
 
-|TOTAL
-4+s|PHP 90,293.18
+s|TOTAL
+|
+|
+|
+|
+|PHP 90,293.18
 
-5+h|CONTINGENCY COST
+6+^h|Contingency Cost
 
-|Emergency
-|PHP 6,750
+s|Emergency Funds
+|PHP 6,750.00
 |
 |
 |PHP 40,500
+|
+
+s|TOTAL
+|
+|
+|
+|PHP 874,245.98
+|PHP 292,175.11
 |===
+
+_References: https://ph.indeed.com/career/; https://www.microsoft.com/en-us/microsoft-365/enterprise/office365-plans-and-pricing; https://azure.microsoft.com/en-us/pricing/calculator/_
+
+The estimated labor cost for this project is computed based on each role’s hourly rate, then multiplied by expected hours rendered per day--which is 8 hours--then multiplied by assumed business days per month--which is 20 days--and lastly is multiplied by the number of months each role’s work took place. The formula goes like this: hourly rate * expected hours rendered * business days per month * number of months rendered (Team Lead sample: 235.25 * 8 * 20 * 6 = 225,840).
 
 [%header,cols=3*]
 |===
@@ -318,5 +350,56 @@ h|Total Cost (6 Months)
 |Delete groups
 |PHP 3,053.35
 
-3+s|TOTAL   PHP 201,881.93
+s|TOTAL
+s|
+s|PHP 201,881.93
 |===
+
+The actual labor costs for this project are computed by all hours rendered by all members of the team per work package. The table below shows all the hours rendered by all the members of the team.
+
+[%header,cols=5*]
+|===
+|Member
+|Role
+|Rendered hours (all work packages)
+|Hourly rate
+|Actual labor costs
+
+|Chase Villarroel
+|Team Lead (and Backend developer)
+|411 hours
+|PHP 235.25
+|PHP 96,687.75
+
+|Aliyah Kirstie Lopez
+|Frontend developer
+|243 hours
+|PHP 214.40
+|PHP 52,099.20
+
+|James Alfafara
+|UI/UX Designer
+|171 hours
+|PHP 172.13
+|PHP 29,434.23
+
+|Jethro Rae Garcia
+|QA Tester
+|59 hours
+|PHP 152.65
+|PHP 9,006.35
+
+|Alexandra Noynay
+|QA Tester
+|96 hours
+|PHP 152.65
+|PHP 14,654.40
+
+s|TOTAL
+|
+|
+|
+s|PHP 201,881.93
+|===
+
+The total actual labor costs equate to the total labor costs of all work packages in the OpenProject setup.
